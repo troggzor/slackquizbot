@@ -312,23 +312,21 @@ QuizBot.prototype.onSlackMessage = function(slackMsgData) {
 		
 	//check for mention
 	if(slackMsgData.text.indexOf('<@' + this.id + '>') > -1) {
-		var startQuizIndex = slackMsgData.text.indexOf('start quiz');
+		var startQuizIndex = slackMsgData.text.indexOf('start');
 		if(startQuizIndex > -1) {
-			var rest = slackMsgData.text.substring(startQuizIndex + 11);
+			var rest = slackMsgData.text.substring(startQuizIndex + 6);
 			var nextSpace = rest.indexOf(" ");
 			var quizId = rest.substring(0, nextSpace > -1 ? nextSpace : rest.length);
 			this.startQuiz(quiz, slackMsgData.channel, quizId);
-		}else if(slackMsgData.text.match(/(pause quiz)\b/ig)) {
+		}else if(slackMsgData.text.match(/(pause)\b/ig)) {
 			this.pauseQuiz(quiz, slackMsgData.channel);
-		}else if(slackMsgData.text.match(/(resume quiz)\b/ig)) {
+		}else if(slackMsgData.text.match(/(resume)\b/ig)) {
 			this.resumeQuiz(quiz, slackMsgData.channel);
-		}else if(slackMsgData.text.match(/(stop quiz)\b/ig)) {
+		}else if(slackMsgData.text.match(/(stop)\b/ig)) {
 			this.stopQuiz(quiz, slackMsgData.channel);
-		}else if(slackMsgData.text.match(/(quiz status)\b/ig)) {
-			this.getQuizStatus(quiz, slackMsgData.channel);
-		}else if(slackMsgData.text.match(/(show scores)\b/ig)) {
+		}else if(slackMsgData.text.match(/(scores)\b/ig)) {
 			this.onShowScores(quiz, slackMsgData.channel);
-		}else if(slackMsgData.text.match(/(list quizzes)\b/ig)) {
+		}else if(slackMsgData.text.match(/(list)\b/ig)) {
 			this.listQuizzes(slackMsgData.channel);
 		}
 	}else{
