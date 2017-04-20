@@ -275,7 +275,7 @@ QuizBot.prototype.onShowScores = function(quiz, slackChannel) {
 	}
 };
 QuizBot.prototype.onIncorrectAnswer = function(quiz, user) {
-    this.slack.sendMsg(quiz.slackChannel, this.getLocale(quiz, 'incorrectAnswer'));
+    //this.slack.sendMsg(quiz.slackChannel, this.getLocale(quiz, 'incorrectAnswer'));
 };
 QuizBot.prototype.onAnswerPrompt10SecondsLeft = function(quiz, secondsLeft) {
     this.slack.sendMsg(quiz.slackChannel, "Anyone? Only " + secondsLeft + " seconds left!");
