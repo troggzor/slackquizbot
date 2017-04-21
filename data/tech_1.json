@@ -1,4 +1,4 @@
-{
+﻿{
   "questions": [
     {
       "text": "Which operation takes more than O(1) time with the Hash Table data structure?",
@@ -523,22 +523,187 @@
       ]
     },
     {
-      "text": "",
+      "text": "Which sorting algorithm has an upper bound of O(n lg n)?",
       "answers": [
         {
           "text": [
-            ""
+            "Merge Sort",
+            "MergeSort"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "In what year was the specification for the COBOL language created?",
+      "answers": [
+        {
+          "text": [
+            "1959"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which of the following JavaScript libraries was originally built as an add-on library extension to the Yahoo! User Interface Libary (YUI)?",
+      "answers": [
+        {
+          "text": [
+            "ExtJS"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the name of the Java mascot?",
+      "answers": [
+        {
+          "text": [
+            "Duke"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "In 2010, which job did CNN.com rank as the #1 \"Best Job in America\"?",
+      "answers": [
+        {
+          "text": [
+            "Software Architect"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who founded the \"Free Software Foundation\"?",
+      "answers": [
+        {
+          "text": [
+            "Richard Stallman"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "In 1977, Rivest, Shamir and Adleman published a paper on what is known as the RSA encryption algorithm. However, this algorithm had already been independently developed by a mathematician working for the British government. The development happened in 1973, but was treated as classified information and not released to the public until 1997. What is the name of the mathematician who developed the algorithm for the British government?",
+      "answers": [
+        {
+          "text": [
+            "Clifford Cocks"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which operation takes more than O(1) time with the Hash Table data structure?",
+      "answers": [
+        {
+          "text": [
+            "Sort"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who is the creator of the JavaScript scripting language?",
+      "answers": [
+        {
+          "text": [
+            "Brendan Eich"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the running time of a binary search on a sorted array of n elements?",
+      "answers": [
+        {
+          "text": [
+            "O(lg n)",
+            "O(lgn)",
+            "lgn",
+            "O(logn)",
+            "O(log n)"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What was the first song ever sung by a computer?",
+      "answers": [
+        {
+          "text": [
+            "Daisy Bell"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "In Java, all non-static methods are by default \"____\"?",
+      "answers": [
+        {
+          "text": [
+            "virtual"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What was Java called before it was Java?",
+      "answers": [
+        {
+          "text": [
+            "Oak"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which famous computer scientist killed himself by eating a posion apple?",
+      "answers": [
+        {
+          "text": [
+            "Alan Turing"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the worst case running time for finding an element in a Splay Tree?",
+      "answers": [
+        {
+          "text": [
+            "O(n)"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "0xb - 0xe + 0xd?",
+      "answers": [
+        {
+          "text": [
+            "0xa"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What programming language did Bjarne Stroustrup create?",
+      "answers": [
+        {
+          "text": [
+            "C++"
           ]
         }
       ]
     }
   ],
   "settings": {
-    "startQuestionGap": 3,
-    "questionTime": 90,
-    "nextQuestionGap": 10,
-    "pointsPerQuestion": 3,
+    "startQuestionGap": 0,
+    "questionTime": 0,
+    "nextQuestionGap": 0,
+    "pointsPerQuestion": 1,
     "randomise": true,
-    "questionGap": 10
+    "questionGap": 0
   }
 }
