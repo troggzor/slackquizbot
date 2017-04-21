@@ -203,14 +203,7 @@ QuizBot.prototype.stopQuiz = function (quiz, slackChannel) {
 };
 
 QuizBot.prototype.onQuestionPrepped = function (quiz, questionIndex) {
-	var text = "";
-	if (questionIndex == 0) {
-		text = this.getLocale(quiz, 'questionPrepFirst');
-	} else if (questionIndex == quiz.questions.length - 1) {
-		text = this.getLocale(quiz, 'questionPrepLast');
-	} else {
-		text = this.getLocale(quiz, 'questionPrep');
-	}
+	var text = this.getLocale(quiz, 'questionPrep');
 	text = text.replace("<number>", questionIndex + 1);
 	this.slack.sendMsg(quiz.slackChannel, text);
 };
@@ -285,7 +278,7 @@ QuizBot.prototype.onShowScores = function (quiz, slackChannel) {
 	if (quiz == null) {
 		this.slack.sendMsg(slackChannel, this.getLocale(quiz, 'quizNotLoadedYet'));
 	} else {
-		this.slack.sendMsg(slackChannel, this.getLocale(quiz, 'latestScores') + quiz.getScores(this.getLocale(quiz, 'leads')));
+		this.slack.sendMsg(quiz.slackChannel, this.getLocale(quiz, 'latestScores') + quiz.getScores(this.getLocale(quiz, 'leads')));
 	}
 };
 
@@ -327,24 +320,33 @@ QuizBot.prototype.onSlackMessage = function (slackMsgData) {
 	var quiz = this.getQuizByChannel(slackMsgData.channel);
 	var user = this.slack.getUser(slackMsgData.user);
 
+	var isAdmin = user.name === 'bogdan.boiculese';
+
 	//check for mention
 	if (slackMsgData.text.indexOf('<@' + this.id + '>') > -1) {
-		var startQuizIndex = slackMsgData.text.indexOf('start');
-		if (startQuizIndex > -1) {
-			var rest = slackMsgData.text.substring(startQuizIndex + 6);
-			var nextSpace = rest.indexOf(" ");
-			var quizId = rest.substring(0, nextSpace > -1 ? nextSpace : rest.length);
-			this.startQuiz(quiz, slackMsgData.channel, quizId);
-		} else if (slackMsgData.text.match(/(pause)\b/ig)) {
-			this.pauseQuiz(quiz, slackMsgData.channel);
-		} else if (slackMsgData.text.match(/(resume)\b/ig)) {
-			this.resumeQuiz(quiz, slackMsgData.channel);
-		} else if (slackMsgData.text.match(/(stop)\b/ig)) {
-			this.stopQuiz(quiz, slackMsgData.channel);
-		} else if (slackMsgData.text.match(/(scores)\b/ig)) {
+
+		// Admin commands
+		if (isAdmin) {
+			var startQuizIndex = slackMsgData.text.indexOf('start');
+			if (startQuizIndex > -1) {
+				var rest = slackMsgData.text.substring(startQuizIndex + 6);
+				var nextSpace = rest.indexOf(" ");
+				var quizId = rest.substring(0, nextSpace > -1 ? nextSpace : rest.length);
+				this.startQuiz(quiz, slackMsgData.channel, quizId);
+			} else if (slackMsgData.text.match(/(pause)\b/ig)) {
+				this.pauseQuiz(quiz, slackMsgData.channel);
+			} else if (slackMsgData.text.match(/(resume)\b/ig)) {
+				this.resumeQuiz(quiz, slackMsgData.channel);
+			} else if (slackMsgData.text.match(/(stop)\b/ig)) {
+				this.stopQuiz(quiz, slackMsgData.channel);
+			} else if (slackMsgData.text.match(/(list)\b/ig)) {
+				this.listQuizzes(slackMsgData.channel);
+			}
+		}
+
+		// Public commands
+		if (slackMsgData.text.match(/(scores)\b/ig)) {
 			this.onShowScores(quiz, slackMsgData.channel);
-		} else if (slackMsgData.text.match(/(list)\b/ig)) {
-			this.listQuizzes(slackMsgData.channel);
 		}
 	} else {
 		//listen for normal text
@@ -357,7 +359,8 @@ QuizBot.prototype.onSlackMessage = function (slackMsgData) {
 };
 
 QuizBot.prototype.onFileShared = function (data) {
-	this.saveQuizToDisk(data.file.title, data.file.url, data.file.ims[0]);
+	// note (bb): Disabled since it crashes randomly
+	//this.saveQuizToDisk(data.file.title, data.file.url, data.file.ims[0]);
 };
 
 module.exports = QuizBot;

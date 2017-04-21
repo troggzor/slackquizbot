@@ -103,3 +103,4 @@ nbproject
 .node_history
 local_example.js
 *.tgz
+.vscode

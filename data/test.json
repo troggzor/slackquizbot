@@ -1,0 +1,34 @@
+{
+    "questions": [
+        {
+            "text": "What is love",
+            "answers": [
+                {
+                    "text": [
+                        "Baby don't hurt me",
+                        "Don't hurt me",
+                        "No more"
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "1 +  1 = ?",
+            "answers": [
+                {
+                    "text": [
+                        "2",
+                        "2"
+                    ]
+                }
+            ]
+        }
+    ],
+    "settings": {
+        "startQuestionGap": 1,
+        "questionTime": 60,
+        "nextQuestionGap": 1,
+        "pointsPerQuestion": 1,
+        "randomise": false
+    }
+}

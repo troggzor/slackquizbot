@@ -62,9 +62,7 @@
 		"Ok, let's go! Here's the first question..."
 	],
 	"questionPrep":[
-		"Here's the next question...",
-		"Ok, question number <number>...",
-		"Now for question <number>..."
+		"Here's the next question..."
 	],
 	"questionPrepLast":[
 		"This is the last question!",
