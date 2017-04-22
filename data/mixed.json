@@ -6438,7 +6438,7 @@
   "settings": {
     "startQuestionGap": 3,
     "questionTime": 3600,
-    "nextQuestionGap": 10,
+    "nextQuestionGap": 5,
     "pointsPerQuestion": 1,
     "randomise": true,
     "questionGap": 3

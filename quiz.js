@@ -31,7 +31,8 @@ function Quiz() {
         timeBetweenIncorrectResponses: 10,
         continuous: true,
         skipCount: 3,
-        hintCharactersPercent: 25, 
+        hintCharactersPercent: 40, 
+        hintInterval: 10
     };
 
     this.state = QuizState.IDLE;

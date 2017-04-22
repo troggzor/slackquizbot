@@ -1,6 +1,7 @@
 var fs = require('fs');
 var SlackAPI = require('slackbotapi');
 var Quiz = require('./quiz.js');
+var NodeCache = require( "node-cache" );
 
 function QuizBot(slackToken, locale) {
 	if (typeof locale === 'undefined') { locale = 'en'; }
@@ -16,6 +17,7 @@ function QuizBot(slackToken, locale) {
 
 	this.quizzes = [];
 	this.locale = locale;
+	this.cache = new NodeCache();
 }
 
 QuizBot.prototype.loadLocale = function (lang) {
@@ -361,7 +363,7 @@ QuizBot.prototype.onSlackMessage = function (slackMsgData) {
 					quiz.markSkipped(user);
 				}
 			} else if (slackMsgData.text.match(/(^hint$)\b/ig)) {
-				this.showHint(quiz);
+				this.showHint(quiz, user);
 			} else {
 				quiz.checkAnswer(slackMsgData.text, user);
 			}
@@ -374,8 +376,13 @@ QuizBot.prototype.onFileShared = function (data) {
 	//this.saveQuizToDisk(data.file.title, data.file.url, data.file.ims[0]);
 };
 
-QuizBot.prototype.showHint = function (quiz) {
+QuizBot.prototype.showHint = function (quiz, user) {
     if (quiz == null || quiz.currentQuestion == null) return;
+    var key = quiz.slackChannel + '_' + user.id;
+	if (this.cache.get(key) != null) {
+		return;
+	}
+
 	var answer = quiz.currentQuestion.answers[0].text[0];
 	var answerWithoutSpaces = answer.replace(/\s/g, '');
 	var readableCharsLength = answerWithoutSpaces.length;
@@ -391,7 +398,7 @@ QuizBot.prototype.showHint = function (quiz) {
 
 	var answerArray = [...answer];
 	for (var i = 0; i < answerArray.length; i++) {
-		// Replace hidden indexes with '*' and keep whitespace
+		// Replace hidden indexes with '⁎' and keep whitespace
 		if (visibleIndexes.indexOf(i) === -1 && /\s/.test(answerArray[i]) === false) {
 			answerArray[i] = '⁎';
 		}
@@ -403,6 +410,7 @@ QuizBot.prototype.showHint = function (quiz) {
 		.replace('<length>', hint.length);
 
 	this.slack.sendMsg(quiz.slackChannel, message);
+	this.cache.set(key, true, quiz.settings.hintInterval);
 };
 
 QuizBot.prototype.registerExitHandler = function () {

@@ -17,6 +17,7 @@
   ],
   "dependencies": {
     "eventemitter3": "^1.1.1",
+    "node-cache": "^4.1.1",
     "slackbotapi": "*"
   },
   "author": "Richard Wallis <codebyfire@gmail.com> (http://codebyfire.com)",
