@@ -120,9 +120,9 @@ QuizBot.prototype.listQuizzes = function (slackChannel) {
 };
 
 QuizBot.prototype.loadQuiz = function (slackChannel, quizId) {
-	var isLocalSuccess = this.tryLoadQuiz('data/' + quizId + '.json', slackChannel, quizId);
+	var isLocalSuccess = this.tryLoadQuiz('data\\' + quizId + '.json', slackChannel, quizId);
 	if (!isLocalSuccess) {
-		var isBuiltInSuccess = this.tryLoadQuiz(__dirname + '/data/' + quizId + '.json', slackChannel, quizId);
+		var isBuiltInSuccess = this.tryLoadQuiz(__dirname + '\\data\\' + quizId + '.json', slackChannel, quizId);
 		if (!isBuiltInSuccess) {
 			this.onQuizLoadFailed(slackChannel, quizId);
 		}
@@ -132,7 +132,7 @@ QuizBot.prototype.loadQuiz = function (slackChannel, quizId) {
 
 QuizBot.prototype.tryLoadQuiz = function (filePath, slackChannel, quizId) {
 	try {
-		var data = fs.readFileSync(filePath, 'utf8');
+		var data = fs.readFileSync(filePath, 'utf8').trim('"');
 		this.onQuizLoadSuccess(data, slackChannel);
 		return true;
 	} catch (e) {
@@ -147,6 +147,7 @@ QuizBot.prototype.onQuizLoadSuccess = function (data, slackChannel) {
 	quiz.on('correctAnswer', this.onCorrectAnswer.bind(this));
 	quiz.on('incorrectAnswer', this.onIncorrectAnswer.bind(this));
 	quiz.on('questionTimeout', this.onQuestionTimeout.bind(this));
+	quiz.on('questionSkip', this.onQuestionSkip.bind(this));
 	quiz.on('otherPossibleAnswers', this.onOtherPossibleAnswers.bind(this));
 	quiz.on('answerPrompt10SecondsLeft', this.onAnswerPrompt10SecondsLeft.bind(this));
 	quiz.on('showScores', this.onShowScores.bind(this));
@@ -223,9 +224,11 @@ QuizBot.prototype.onQuestionStarted = function (quiz, question) {
 };
 
 QuizBot.prototype.onQuestionTimeout = function (quiz, question) {
-	var correctAnswerText = question.answerCount == 1 ? this.getLocale(quiz, 'correctAnswerSingle') : this.getLocale(quiz, 'correctAnswerMultiple');
-	correctAnswerText = correctAnswerText.replace("<data>", quiz.getCorrectAnswers());
-	this.slack.sendMsg(quiz.slackChannel, this.getLocale(quiz, 'questionTimeout') + ' ' + correctAnswerText);
+	this.slack.sendMsg(quiz.slackChannel, this.getLocale(quiz, 'questionTimeout') + ' ' + this.getCorrectAnswerText(quiz, question));
+};
+
+QuizBot.prototype.onQuestionSkip = function (quiz, question) {
+	this.slack.sendMsg(quiz.slackChannel, this.getLocale(quiz, 'questionSkip') + ' ' + this.getCorrectAnswerText(quiz, question));
 };
 
 QuizBot.prototype.onOtherPossibleAnswers = function (quiz, otherAnswers) {
@@ -309,6 +312,7 @@ QuizBot.prototype.onConnectToSlack = function (data) {
 
 	if (this.loadLocale(this.locale)) {
 		console.log("Quizbot [" + this.name + "] is up and running!");
+		this.registerExitHandler();
 	} else {
 		console.log("Quizbot [" + this.name + "] could not load '" + this.locale + "' locale file");
 	}
@@ -320,7 +324,7 @@ QuizBot.prototype.onSlackMessage = function (slackMsgData) {
 	var quiz = this.getQuizByChannel(slackMsgData.channel);
 	var user = this.slack.getUser(slackMsgData.user);
 
-	var isAdmin = user.name === 'bogdan.boiculese';
+	var isAdmin = user !== null && user.name === 'bogdan.boiculese';
 
 	//check for mention
 	if (slackMsgData.text.indexOf('<@' + this.id + '>') > -1) {
@@ -348,10 +352,17 @@ QuizBot.prototype.onSlackMessage = function (slackMsgData) {
 		if (slackMsgData.text.match(/(scores)\b/ig)) {
 			this.onShowScores(quiz, slackMsgData.channel);
 		}
+
 	} else {
 		//listen for normal text
-		if (quiz != null) {
-			if (quiz.isQuestionActive()) {
+		if (quiz && quiz.isQuestionActive()) {
+			if (slackMsgData.text.match(/(^skip$)\b/ig)) {
+				if (quiz && quiz.isQuestionActive()) {
+					quiz.markSkipped(user);
+				}
+			} else if (slackMsgData.text.match(/(^hint$)\b/ig)) {
+				this.showHint(quiz);
+			} else {
 				quiz.checkAnswer(slackMsgData.text, user);
 			}
 		}
@@ -361,6 +372,67 @@ QuizBot.prototype.onSlackMessage = function (slackMsgData) {
 QuizBot.prototype.onFileShared = function (data) {
 	// note (bb): Disabled since it crashes randomly
 	//this.saveQuizToDisk(data.file.title, data.file.url, data.file.ims[0]);
+};
+
+QuizBot.prototype.showHint = function (quiz) {
+    if (quiz == null || quiz.currentQuestion == null) return;
+	var answer = quiz.currentQuestion.answers[0].text[0];
+	var answerWithoutSpaces = answer.replace(/\s/g, '');
+	var readableCharsLength = answerWithoutSpaces.length;
+	var hintCharsLenght = Math.ceil(readableCharsLength * quiz.settings.hintCharactersPercent / 100);
+	var visibleIndexes = [];
+	while (visibleIndexes.length < hintCharsLenght) {
+		var randomIndex = Math.floor(Math.random() * answer.length);
+		if (visibleIndexes.indexOf(randomIndex) != -1) {
+			continue;
+		}
+		visibleIndexes.push(randomIndex);
+	}
+
+	var answerArray = [...answer];
+	for (var i = 0; i < answerArray.length; i++) {
+		// Replace hidden indexes with '*' and keep whitespace
+		if (visibleIndexes.indexOf(i) === -1 && /\s/.test(answerArray[i]) === false) {
+			answerArray[i] = '⁎';
+		}
+	}
+
+	var hint = answerArray.join('');
+	var message = this.getLocale(quiz, 'questionHint')
+		.replace('<hint>', hint)
+		.replace('<length>', hint.length);
+
+	this.slack.sendMsg(quiz.slackChannel, message);
+};
+
+QuizBot.prototype.registerExitHandler = function () {
+	process.on('SIGINT', this.exitHandler.bind(this, { exit: true }));
+	process.on('uncaughtException', this.exitHandler.bind(this, { exit: true }));
+};
+
+QuizBot.prototype.exitHandler = function (options, err) {
+	if (err) {
+		var message = err.stack || err;
+		console.log(message);
+		this.slack.sendPM("bogdan.boiculese", "Psst, i crashed..." + message);
+	} else {
+        // note:
+        var channels = this.quizzes.map(function(q) { return q; });
+		for (var channel of channels) {
+			//this.slack.sendMsg(channel, "Disconnected...");
+			console.log(channel + ' ' + "Disconnected");
+		}
+	}
+
+	// note: wait for notification to be sent
+	setTimeout(function () {
+		process.exit(99);
+	}, 2000);
+};
+
+QuizBot.prototype.getCorrectAnswerText = function (quiz, question) {
+	var correctAnswerText = question.answerCount == 1 ? this.getLocale(quiz, 'correctAnswerSingle') : this.getLocale(quiz, 'correctAnswerMultiple');
+	return correctAnswerText.replace("<data>", quiz.getCorrectAnswers());
 };
 
 module.exports = QuizBot;

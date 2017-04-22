@@ -1,0 +1,6446 @@
+{
+  "questions": [
+    {
+      "text": "What is the element symbol of \"Hydrogen\"?",
+      "answers": [
+        {
+          "text": [
+            "H"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Helium\"?",
+      "answers": [
+        {
+          "text": [
+            "He"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Lithium\"?",
+      "answers": [
+        {
+          "text": [
+            "Li"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Berylium\"?",
+      "answers": [
+        {
+          "text": [
+            "Be"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Boron\"?",
+      "answers": [
+        {
+          "text": [
+            "B"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Carbon\"?",
+      "answers": [
+        {
+          "text": [
+            "C"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Nitrogen\"?",
+      "answers": [
+        {
+          "text": [
+            "N"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Oxygen\"?",
+      "answers": [
+        {
+          "text": [
+            "O"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Fluorine\"?",
+      "answers": [
+        {
+          "text": [
+            "F"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Neon\"?",
+      "answers": [
+        {
+          "text": [
+            "Ne"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Sodium\"?",
+      "answers": [
+        {
+          "text": [
+            "Na"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Magnesium\"?",
+      "answers": [
+        {
+          "text": [
+            "Mg"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Aluminum\"?",
+      "answers": [
+        {
+          "text": [
+            "Al"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Silicon\"?",
+      "answers": [
+        {
+          "text": [
+            "Si"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Phosphorus\"?",
+      "answers": [
+        {
+          "text": [
+            "P"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Sulfur\"?",
+      "answers": [
+        {
+          "text": [
+            "S"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Chlorine\"?",
+      "answers": [
+        {
+          "text": [
+            "Cl"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Argon\"?",
+      "answers": [
+        {
+          "text": [
+            "Ar"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Potassium\"?",
+      "answers": [
+        {
+          "text": [
+            "K"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Calcium\"?",
+      "answers": [
+        {
+          "text": [
+            "Ca"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Scandium\"?",
+      "answers": [
+        {
+          "text": [
+            "Sc"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Titanium\"?",
+      "answers": [
+        {
+          "text": [
+            "Ti"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Vanadium\"?",
+      "answers": [
+        {
+          "text": [
+            "V"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Chromium\"?",
+      "answers": [
+        {
+          "text": [
+            "Cr"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Manganese\"?",
+      "answers": [
+        {
+          "text": [
+            "Mn"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Iron\"?",
+      "answers": [
+        {
+          "text": [
+            "Fe"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Cobalt\"?",
+      "answers": [
+        {
+          "text": [
+            "Co"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Nickel\"?",
+      "answers": [
+        {
+          "text": [
+            "Ni"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Copper\"?",
+      "answers": [
+        {
+          "text": [
+            "Cu"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Zinc\"?",
+      "answers": [
+        {
+          "text": [
+            "Zn"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Gallium\"?",
+      "answers": [
+        {
+          "text": [
+            "Ga"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Germanium\"?",
+      "answers": [
+        {
+          "text": [
+            "Ge"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Arsenic\"?",
+      "answers": [
+        {
+          "text": [
+            "As"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Selenium\"?",
+      "answers": [
+        {
+          "text": [
+            "Se"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Bromine\"?",
+      "answers": [
+        {
+          "text": [
+            "Br"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Krypton\"?",
+      "answers": [
+        {
+          "text": [
+            "Kr"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Rubidium\"?",
+      "answers": [
+        {
+          "text": [
+            "Rb"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Strontium\"?",
+      "answers": [
+        {
+          "text": [
+            "Sr"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Yttrium\"?",
+      "answers": [
+        {
+          "text": [
+            "Y"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Zirconium\"?",
+      "answers": [
+        {
+          "text": [
+            "Zr"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Niobium\"?",
+      "answers": [
+        {
+          "text": [
+            "Nb"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Molybdenum\"?",
+      "answers": [
+        {
+          "text": [
+            "Mo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Technetium\"?",
+      "answers": [
+        {
+          "text": [
+            "Tc"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Ruthenium\"?",
+      "answers": [
+        {
+          "text": [
+            "Ru"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Rhodium\"?",
+      "answers": [
+        {
+          "text": [
+            "Rh"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Palladium\"?",
+      "answers": [
+        {
+          "text": [
+            "Pd"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Silver\"?",
+      "answers": [
+        {
+          "text": [
+            "Ag"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Cadmium\"?",
+      "answers": [
+        {
+          "text": [
+            "Cd"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Indium\"?",
+      "answers": [
+        {
+          "text": [
+            "In"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Tin\"?",
+      "answers": [
+        {
+          "text": [
+            "Sn"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Antimony\"?",
+      "answers": [
+        {
+          "text": [
+            "Sb"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Tellurium\"?",
+      "answers": [
+        {
+          "text": [
+            "Te"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Iodine\"?",
+      "answers": [
+        {
+          "text": [
+            "I"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Xenon\"?",
+      "answers": [
+        {
+          "text": [
+            "Xe"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Cesium\"?",
+      "answers": [
+        {
+          "text": [
+            "Cs"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Barium\"?",
+      "answers": [
+        {
+          "text": [
+            "Ba"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Hafnium\"?",
+      "answers": [
+        {
+          "text": [
+            "Hf"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Tantalum\"?",
+      "answers": [
+        {
+          "text": [
+            "Ta"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Tungsten\"?",
+      "answers": [
+        {
+          "text": [
+            "W"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Rhenium\"?",
+      "answers": [
+        {
+          "text": [
+            "Re"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Osmium\"?",
+      "answers": [
+        {
+          "text": [
+            "Os"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Iridium\"?",
+      "answers": [
+        {
+          "text": [
+            "Ir"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Platinum\"?",
+      "answers": [
+        {
+          "text": [
+            "Pt"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Gold\"?",
+      "answers": [
+        {
+          "text": [
+            "Au"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Mercury\"?",
+      "answers": [
+        {
+          "text": [
+            "Hg"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Thallium\"?",
+      "answers": [
+        {
+          "text": [
+            "Tl"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Lead\"?",
+      "answers": [
+        {
+          "text": [
+            "Pb"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Bismuth\"?",
+      "answers": [
+        {
+          "text": [
+            "Bi"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Polonium\"?",
+      "answers": [
+        {
+          "text": [
+            "Po"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Astatine\"?",
+      "answers": [
+        {
+          "text": [
+            "At"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Radon\"?",
+      "answers": [
+        {
+          "text": [
+            "Rn"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Francium\"?",
+      "answers": [
+        {
+          "text": [
+            "Fr"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Radium\"?",
+      "answers": [
+        {
+          "text": [
+            "Ra"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Rutherfordium\"?",
+      "answers": [
+        {
+          "text": [
+            "Rf"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Dubnium\"?",
+      "answers": [
+        {
+          "text": [
+            "Db"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Seaborgium\"?",
+      "answers": [
+        {
+          "text": [
+            "Sg"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Bohrium\"?",
+      "answers": [
+        {
+          "text": [
+            "Bh"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Hassium\"?",
+      "answers": [
+        {
+          "text": [
+            "Hs"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Meitnerium\"?",
+      "answers": [
+        {
+          "text": [
+            "Mt"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Darmstadtium\"?",
+      "answers": [
+        {
+          "text": [
+            "Ds"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Roentgnium\"?",
+      "answers": [
+        {
+          "text": [
+            "Rg"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Copernicium\"?",
+      "answers": [
+        {
+          "text": [
+            "Cn"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Nihonium\"?",
+      "answers": [
+        {
+          "text": [
+            "Nh"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Flerovium\"?",
+      "answers": [
+        {
+          "text": [
+            "Fl"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Moscovium\"?",
+      "answers": [
+        {
+          "text": [
+            "Mc"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Livermorium\"?",
+      "answers": [
+        {
+          "text": [
+            "Lv"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Tennessine\"?",
+      "answers": [
+        {
+          "text": [
+            "Ts"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Oganesson\"?",
+      "answers": [
+        {
+          "text": [
+            "Og"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Lanthanum\"?",
+      "answers": [
+        {
+          "text": [
+            "La"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Cerium\"?",
+      "answers": [
+        {
+          "text": [
+            "Ce"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Praseodymium\"?",
+      "answers": [
+        {
+          "text": [
+            "Pr"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Neodymium\"?",
+      "answers": [
+        {
+          "text": [
+            "Nd"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Promethium\"?",
+      "answers": [
+        {
+          "text": [
+            "Pm"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Samarium\"?",
+      "answers": [
+        {
+          "text": [
+            "Sm"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Europium\"?",
+      "answers": [
+        {
+          "text": [
+            "Eu"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Gadolinium\"?",
+      "answers": [
+        {
+          "text": [
+            "Gd"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Terbium\"?",
+      "answers": [
+        {
+          "text": [
+            "Tb"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Dysprosium\"?",
+      "answers": [
+        {
+          "text": [
+            "Dy"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Holmium\"?",
+      "answers": [
+        {
+          "text": [
+            "Ho"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Erbium\"?",
+      "answers": [
+        {
+          "text": [
+            "Er"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Thulium\"?",
+      "answers": [
+        {
+          "text": [
+            "Tm"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Ytterbium\"?",
+      "answers": [
+        {
+          "text": [
+            "Yb"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Lutetium\"?",
+      "answers": [
+        {
+          "text": [
+            "Lu"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Actinium\"?",
+      "answers": [
+        {
+          "text": [
+            "Ac"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Thorium\"?",
+      "answers": [
+        {
+          "text": [
+            "Th"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Protactinium\"?",
+      "answers": [
+        {
+          "text": [
+            "Pa"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Uranium\"?",
+      "answers": [
+        {
+          "text": [
+            "U"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Neptunium\"?",
+      "answers": [
+        {
+          "text": [
+            "Np"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Plutonium\"?",
+      "answers": [
+        {
+          "text": [
+            "Pu"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Americium\"?",
+      "answers": [
+        {
+          "text": [
+            "Am"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Curium\"?",
+      "answers": [
+        {
+          "text": [
+            "Cm"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Berkelium\"?",
+      "answers": [
+        {
+          "text": [
+            "Bk"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Califormium\"?",
+      "answers": [
+        {
+          "text": [
+            "Cf"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Einsteinium\"?",
+      "answers": [
+        {
+          "text": [
+            "Es"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Fermium\"?",
+      "answers": [
+        {
+          "text": [
+            "Fm"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Mendelevium\"?",
+      "answers": [
+        {
+          "text": [
+            "Md"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Nobelium\"?",
+      "answers": [
+        {
+          "text": [
+            "No"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the element symbol of \"Lawrencium\"?",
+      "answers": [
+        {
+          "text": [
+            "Lr"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/wKXsrWD.png ",
+      "answers": [
+        {
+          "text": [
+            "Afghanistan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/qvcmPb7.png ",
+      "answers": [
+        {
+          "text": [
+            "Albania"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/zLuBq1l.png ",
+      "answers": [
+        {
+          "text": [
+            "Algeria"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/kB3rCke.png ",
+      "answers": [
+        {
+          "text": [
+            "Andorra"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/uZ5WnBU.png ",
+      "answers": [
+        {
+          "text": [
+            "Angola"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/bRF5q3c.png ",
+      "answers": [
+        {
+          "text": [
+            "Antigua and Barbuda",
+            "Antigua",
+            "Barbuda"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/o8tYKMr.png ",
+      "answers": [
+        {
+          "text": [
+            "Argentina"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/8OzbswS.png ",
+      "answers": [
+        {
+          "text": [
+            "Armenia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/HZyUD1Y.png ",
+      "answers": [
+        {
+          "text": [
+            "Australia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/LbQj8rK.png ",
+      "answers": [
+        {
+          "text": [
+            "Austria"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/LHZxJCE.png ",
+      "answers": [
+        {
+          "text": [
+            "Azerbaijan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/3vTYQpq.png ",
+      "answers": [
+        {
+          "text": [
+            "Bahamas"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/C3kWeQw.png ",
+      "answers": [
+        {
+          "text": [
+            "Bahrain"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/HsyQ0WU.png ",
+      "answers": [
+        {
+          "text": [
+            "Bangladesh"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/ub1Krgd.png ",
+      "answers": [
+        {
+          "text": [
+            "Barbados"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/5NbPMRh.png ",
+      "answers": [
+        {
+          "text": [
+            "Belarus"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/QpwAZCH.png ",
+      "answers": [
+        {
+          "text": [
+            "Belgium"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/YaA07yt.png ",
+      "answers": [
+        {
+          "text": [
+            "Belize"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/hy3crgu.png ",
+      "answers": [
+        {
+          "text": [
+            "Benin"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/5E9Hkzb.png ",
+      "answers": [
+        {
+          "text": [
+            "Bhutan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/h6qegtn.png ",
+      "answers": [
+        {
+          "text": [
+            "Bolivia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/l6TGY4c.png ",
+      "answers": [
+        {
+          "text": [
+            "Bosnia and Herzegovina",
+            "Bosnia",
+            "Herzegovina"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/kRM1chU.png ",
+      "answers": [
+        {
+          "text": [
+            "Botswana"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/1dQ8NBz.png ",
+      "answers": [
+        {
+          "text": [
+            "Brazil"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/18t0zMj.png ",
+      "answers": [
+        {
+          "text": [
+            "Brunei"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/eT28D3B.png ",
+      "answers": [
+        {
+          "text": [
+            "Bulgaria"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/eMO7Y0z.png ",
+      "answers": [
+        {
+          "text": [
+            "Burkina Faso"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/kxgws8z.png ",
+      "answers": [
+        {
+          "text": [
+            "Burundi"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/CpPkgpU.png ",
+      "answers": [
+        {
+          "text": [
+            "Cabo Verde",
+            "Cape Verde"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/dLexEX4.png ",
+      "answers": [
+        {
+          "text": [
+            "Cambodia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/vBZvx28.png ",
+      "answers": [
+        {
+          "text": [
+            "Cameroon"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/LgwBULL.png ",
+      "answers": [
+        {
+          "text": [
+            "Canada"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/Yvry0ap.png ",
+      "answers": [
+        {
+          "text": [
+            "Central African Republic"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/RgnmHkX.png ",
+      "answers": [
+        {
+          "text": [
+            "Chile"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/PJpxYhW.png ",
+      "answers": [
+        {
+          "text": [
+            "China",
+            "People's Republic of China"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/J3xd0eK.png ",
+      "answers": [
+        {
+          "text": [
+            "Colombia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/OS83E0Y.png ",
+      "answers": [
+        {
+          "text": [
+            "Comoros"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/ZZJK5He.png ",
+      "answers": [
+        {
+          "text": [
+            "Republic of the Congo",
+            "Congo",
+            "Republic of Congo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/Ls07jJq.png ",
+      "answers": [
+        {
+          "text": [
+            "Democratic Republic of the Congo",
+            "Dem. Rep. of Congo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/WtPvwLD.png ",
+      "answers": [
+        {
+          "text": [
+            "Costa Rica"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/R36hcy9.png ",
+      "answers": [
+        {
+          "text": [
+            "Cote d'Ivoire",
+            "Ivory Coast"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/02a0Xre.png ",
+      "answers": [
+        {
+          "text": [
+            "Croatia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/5IRTv2m.png ",
+      "answers": [
+        {
+          "text": [
+            "Cuba"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/wr0KhwF.png ",
+      "answers": [
+        {
+          "text": [
+            "Cyprus"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/FQyZE9l.png ",
+      "answers": [
+        {
+          "text": [
+            "Czech Republic",
+            "Czechia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/1tH3blw.png ",
+      "answers": [
+        {
+          "text": [
+            "Denmark"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/begWgBT.png ",
+      "answers": [
+        {
+          "text": [
+            "Djibouti"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/XoL54ql.png ",
+      "answers": [
+        {
+          "text": [
+            "Dominica"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/mQvZHZH.png ",
+      "answers": [
+        {
+          "text": [
+            "Dominican Republic"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/RpLNeK5.png ",
+      "answers": [
+        {
+          "text": [
+            "Ecuador"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/svMrHDC.png ",
+      "answers": [
+        {
+          "text": [
+            "Egypt"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/rmUviUv.png ",
+      "answers": [
+        {
+          "text": [
+            "El Salvador"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/hr9515B.png ",
+      "answers": [
+        {
+          "text": [
+            "Equatorial Guinea"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/3LN2uSA.png ",
+      "answers": [
+        {
+          "text": [
+            "Eritrea"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/ykTTjRD.png ",
+      "answers": [
+        {
+          "text": [
+            "Estonia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/dZe1Bd4.png ",
+      "answers": [
+        {
+          "text": [
+            "Ethiopia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/jHWTNbi.png ",
+      "answers": [
+        {
+          "text": [
+            "Fiji"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/RLgBmmx.png ",
+      "answers": [
+        {
+          "text": [
+            "Finland"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/SUTmKC3.png ",
+      "answers": [
+        {
+          "text": [
+            "France"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/lkJ72mO.png ",
+      "answers": [
+        {
+          "text": [
+            "Gabon"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/LgBw3JD.png ",
+      "answers": [
+        {
+          "text": [
+            "Gambia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/3KXMyBS.png ",
+      "answers": [
+        {
+          "text": [
+            "Georgia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/8F5aqVG.png ",
+      "answers": [
+        {
+          "text": [
+            "Germany"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/mbWf2iq.png ",
+      "answers": [
+        {
+          "text": [
+            "Ghana"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/mdyAHBg.png ",
+      "answers": [
+        {
+          "text": [
+            "Greece"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/dBo8TPh.png ",
+      "answers": [
+        {
+          "text": [
+            "Grenada"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/dPkirdh.png ",
+      "answers": [
+        {
+          "text": [
+            "Guatemala"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/uaJ6QQD.png ",
+      "answers": [
+        {
+          "text": [
+            "Guinea"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/RhbzmE9.png ",
+      "answers": [
+        {
+          "text": [
+            "Guinea-Bissau"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/Xd2tgrz.png ",
+      "answers": [
+        {
+          "text": [
+            "Guyana"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/UN8GHa4.png ",
+      "answers": [
+        {
+          "text": [
+            "Haiti"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/PmWAhic.png ",
+      "answers": [
+        {
+          "text": [
+            "Honduras"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/zTOVfhf.png ",
+      "answers": [
+        {
+          "text": [
+            "Hungary"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/Mtz46LH.png ",
+      "answers": [
+        {
+          "text": [
+            "Iceland"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/UzHuET8.png ",
+      "answers": [
+        {
+          "text": [
+            "India"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/chOrWHr.png ",
+      "answers": [
+        {
+          "text": [
+            "Indonesia",
+            "Monaco"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/WjFxXYM.png ",
+      "answers": [
+        {
+          "text": [
+            "Iran"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/y7JWUm0.png ",
+      "answers": [
+        {
+          "text": [
+            "Iraq"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/qZEuijY.png ",
+      "answers": [
+        {
+          "text": [
+            "Ireland",
+            "Republic of Ireland",
+            "ROI",
+            "R.O.I."
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/LPm5b84.png ",
+      "answers": [
+        {
+          "text": [
+            "Israel"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/FoEC4xl.png ",
+      "answers": [
+        {
+          "text": [
+            "Italy"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/MrAUl3e.png ",
+      "answers": [
+        {
+          "text": [
+            "Jamaica"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/AVX1jHf.png ",
+      "answers": [
+        {
+          "text": [
+            "Japan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/RTVaeeT.png ",
+      "answers": [
+        {
+          "text": [
+            "Jordan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/Il8Gkxe.png ",
+      "answers": [
+        {
+          "text": [
+            "Kazakhstan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/6UkAfly.png ",
+      "answers": [
+        {
+          "text": [
+            "Kenya"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/DhviZ7r.png ",
+      "answers": [
+        {
+          "text": [
+            "Kiribati"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/t8qnUGP.png ",
+      "answers": [
+        {
+          "text": [
+            "Kosovo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/yKhcXV9.png ",
+      "answers": [
+        {
+          "text": [
+            "Kuwait"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/vqtZ8V4.png ",
+      "answers": [
+        {
+          "text": [
+            "Kyrgyzstan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/ins1BsE.png ",
+      "answers": [
+        {
+          "text": [
+            "Laos"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/d8hPELu.png ",
+      "answers": [
+        {
+          "text": [
+            "Latvia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/BTYy0J0.png ",
+      "answers": [
+        {
+          "text": [
+            "Lebanon"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/J20AEe0.png ",
+      "answers": [
+        {
+          "text": [
+            "Lesotho"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/Ma1ivs0.png ",
+      "answers": [
+        {
+          "text": [
+            "Liberia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/222q836.png ",
+      "answers": [
+        {
+          "text": [
+            "Libya"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/Sd5FQj9.png ",
+      "answers": [
+        {
+          "text": [
+            "Liechtenstein"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/ZnhOID0.png ",
+      "answers": [
+        {
+          "text": [
+            "Lithuania"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/jwR0mTj.png ",
+      "answers": [
+        {
+          "text": [
+            "Luxembourg"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/7weskDc.png ",
+      "answers": [
+        {
+          "text": [
+            "Macedonia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/iO3sAPy.png ",
+      "answers": [
+        {
+          "text": [
+            "Madagascar"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/V0y3m1h.png ",
+      "answers": [
+        {
+          "text": [
+            "Malawi"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/nieDYXN.png ",
+      "answers": [
+        {
+          "text": [
+            "Malaysia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/1VsVFYK.png ",
+      "answers": [
+        {
+          "text": [
+            "Maldives"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/re1GuyK.png ",
+      "answers": [
+        {
+          "text": [
+            "Mali"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/BqwHKYv.png ",
+      "answers": [
+        {
+          "text": [
+            "Malta",
+            "Hvid R�d"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/zBYYxpN.png ",
+      "answers": [
+        {
+          "text": [
+            "Marshall Islands"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/1o8hBla.png ",
+      "answers": [
+        {
+          "text": [
+            "Mauritania"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/bjtyCp5.png ",
+      "answers": [
+        {
+          "text": [
+            "Mauritius"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/Os7kijz.png ",
+      "answers": [
+        {
+          "text": [
+            "Mexico"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/b9STlvA.png ",
+      "answers": [
+        {
+          "text": [
+            "Micronesia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/j7Ig3Bu.png ",
+      "answers": [
+        {
+          "text": [
+            "Moldova"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/oMLG5ri.png ",
+      "answers": [
+        {
+          "text": [
+            "Mongolia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/TPz5Gaj.png ",
+      "answers": [
+        {
+          "text": [
+            "Montenegro"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/CXQK227.png ",
+      "answers": [
+        {
+          "text": [
+            "Morocco"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/BgdKIb2.png ",
+      "answers": [
+        {
+          "text": [
+            "Mozambique"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/00SGRuz.png ",
+      "answers": [
+        {
+          "text": [
+            "Myanmar",
+            "Burma"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/VeiCyLB.png ",
+      "answers": [
+        {
+          "text": [
+            "Namibia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/GUUtDv6.png ",
+      "answers": [
+        {
+          "text": [
+            "Nauru"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/mAgkfeH.png ",
+      "answers": [
+        {
+          "text": [
+            "Nepal"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/qNyJQ5d.png ",
+      "answers": [
+        {
+          "text": [
+            "The Netherlands",
+            "Netherlands",
+            "Holland"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/WElCUGn.png ",
+      "answers": [
+        {
+          "text": [
+            "New Zealand"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/dmlTGO4.png ",
+      "answers": [
+        {
+          "text": [
+            "Nicaragua"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/DeINlqb.png ",
+      "answers": [
+        {
+          "text": [
+            "Niger"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/hbJ4J2A.png ",
+      "answers": [
+        {
+          "text": [
+            "Nigeria"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/8LFhQVn.png ",
+      "answers": [
+        {
+          "text": [
+            "North Korea",
+            "People's Republic of Korea"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/i4srkYW.png ",
+      "answers": [
+        {
+          "text": [
+            "Norway"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/ttIhE04.png ",
+      "answers": [
+        {
+          "text": [
+            "Oman"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/QclX66O.png ",
+      "answers": [
+        {
+          "text": [
+            "Pakistan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/weIW0md.png ",
+      "answers": [
+        {
+          "text": [
+            "Palau",
+            "Palaos Bandera",
+            "Bandera de Palaos"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/Vbr5Tam.png ",
+      "answers": [
+        {
+          "text": [
+            "Panama"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/y5PJwXq.png ",
+      "answers": [
+        {
+          "text": [
+            "Papua New Guinea"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/jKRkoe5.png ",
+      "answers": [
+        {
+          "text": [
+            "Paraguay"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/CEetl8W.png ",
+      "answers": [
+        {
+          "text": [
+            "Peru"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/3H3Lfat.png ",
+      "answers": [
+        {
+          "text": [
+            "Philippines"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/Acc9xZt.png ",
+      "answers": [
+        {
+          "text": [
+            "Poland"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/3rcX6U2.png ",
+      "answers": [
+        {
+          "text": [
+            "Portugal"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/njfbYnM.png ",
+      "answers": [
+        {
+          "text": [
+            "Qatar"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/Kytf2Mm.png ",
+      "answers": [
+        {
+          "text": [
+            "Romania"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/VZLff6p.png ",
+      "answers": [
+        {
+          "text": [
+            "Chad"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/OJ3jk8h.png ",
+      "answers": [
+        {
+          "text": [
+            "Russia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/THNCPFu.png ",
+      "answers": [
+        {
+          "text": [
+            "Rwanda"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/duJRErG.png ",
+      "answers": [
+        {
+          "text": [
+            "Saint Kitts and Nevis",
+            "Saint Kitts",
+            "St Kitts",
+            "St Kitts and Nevis"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/pATL0sO.png ",
+      "answers": [
+        {
+          "text": [
+            "Saint Lucia",
+            "St Lucia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/bMd1cb8.png ",
+      "answers": [
+        {
+          "text": [
+            "Saint Vincent and the Grenadines",
+            "St Vincent and the Grenadines",
+            "St Vincent",
+            "Grenadines"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/7qSsp7Z.png ",
+      "answers": [
+        {
+          "text": [
+            "Samoa"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/Zphmsnu.png ",
+      "answers": [
+        {
+          "text": [
+            "San Marino"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/TSVeVtU.png ",
+      "answers": [
+        {
+          "text": [
+            "Sao Tome and Principe",
+            "Sao Tome"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/YUA6oU2.png ",
+      "answers": [
+        {
+          "text": [
+            "Saudi Arabia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/NGR2LNi.png ",
+      "answers": [
+        {
+          "text": [
+            "Senegal"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/KxMALzR.png ",
+      "answers": [
+        {
+          "text": [
+            "Serbia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/NMMpFNh.png ",
+      "answers": [
+        {
+          "text": [
+            "Seychelles"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/1KBFTgX.png ",
+      "answers": [
+        {
+          "text": [
+            "Sierra Leone"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/biZHNNQ.png ",
+      "answers": [
+        {
+          "text": [
+            "Singapore"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/tOVpE44.png ",
+      "answers": [
+        {
+          "text": [
+            "Slovakia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/V3IdT58.png ",
+      "answers": [
+        {
+          "text": [
+            "Slovenia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/wwxWE9U.png ",
+      "answers": [
+        {
+          "text": [
+            "Solomon Islands",
+            "Solomon"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/f8OOur7.png ",
+      "answers": [
+        {
+          "text": [
+            "Somalia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/hiNRJUm.png ",
+      "answers": [
+        {
+          "text": [
+            "South Africa",
+            "Republic of South Africa"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/2Wxbjv5.png ",
+      "answers": [
+        {
+          "text": [
+            "South Korea"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/nKgkQci.png ",
+      "answers": [
+        {
+          "text": [
+            "South Sudan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/524Qfs3.png ",
+      "answers": [
+        {
+          "text": [
+            "Spain"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/Ag2D0nx.png ",
+      "answers": [
+        {
+          "text": [
+            "Sri Lanka"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/eDocaIL.png ",
+      "answers": [
+        {
+          "text": [
+            "Sudan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/DGQwjWZ.png ",
+      "answers": [
+        {
+          "text": [
+            "Suriname"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/xhVuaYj.png ",
+      "answers": [
+        {
+          "text": [
+            "Swaziland"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/gGhBri9.png ",
+      "answers": [
+        {
+          "text": [
+            "Sweden"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/H230Is8.png ",
+      "answers": [
+        {
+          "text": [
+            "Switzerland"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/yt02VIz.png ",
+      "answers": [
+        {
+          "text": [
+            "Syria"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/bWDivLK.png ",
+      "answers": [
+        {
+          "text": [
+            "Taiwan",
+            "Republic of China"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/FxoBzcY.png ",
+      "answers": [
+        {
+          "text": [
+            "Tajikistan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/hY4fbYf.png ",
+      "answers": [
+        {
+          "text": [
+            "Tanzania"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/gI250YG.png ",
+      "answers": [
+        {
+          "text": [
+            "Thailand"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/li2uTFU.png ",
+      "answers": [
+        {
+          "text": [
+            "Timor-Leste",
+            "Timor",
+            "Timor Leste",
+            "East Timor"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/kj2Rl6U.png ",
+      "answers": [
+        {
+          "text": [
+            "Togo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/rbLk4Kr.png ",
+      "answers": [
+        {
+          "text": [
+            "Tonga"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/jXpxd9Q.png ",
+      "answers": [
+        {
+          "text": [
+            "Trinidad and Tobago",
+            "Trinidad & Tobago",
+            "Trinidad",
+            "Tobago"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/jwBaTxq.png ",
+      "answers": [
+        {
+          "text": [
+            "Tunisia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/AkfQ9aV.png ",
+      "answers": [
+        {
+          "text": [
+            "Turkey"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/5Gr6Eyw.png ",
+      "answers": [
+        {
+          "text": [
+            "Turkmenistan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/KejcQ5w.png ",
+      "answers": [
+        {
+          "text": [
+            "Tuvalu"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/qGrb426.png ",
+      "answers": [
+        {
+          "text": [
+            "Uganda"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/WJYeKvC.png ",
+      "answers": [
+        {
+          "text": [
+            "Ukraine"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/uW7bNGe.png ",
+      "answers": [
+        {
+          "text": [
+            "United Arab Emirates",
+            "UAE",
+            "U.A.E."
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/5TEduqP.png ",
+      "answers": [
+        {
+          "text": [
+            "United Kingdom",
+            "UK",
+            "GB",
+            "Great Britain",
+            "Britain"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/iT92sev.png ",
+      "answers": [
+        {
+          "text": [
+            "United States of America",
+            "USA",
+            "U.S.A",
+            "US",
+            "U.S.",
+            "United States"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/h9YUraD.png ",
+      "answers": [
+        {
+          "text": [
+            "Uruguay"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/w7y4yrx.png ",
+      "answers": [
+        {
+          "text": [
+            "Uzbekistan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/SiMqs1f.png ",
+      "answers": [
+        {
+          "text": [
+            "Vanuatu"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/WSCunIE.png ",
+      "answers": [
+        {
+          "text": [
+            "Vatican City",
+            "Vatican"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/AMccj7Q.png ",
+      "answers": [
+        {
+          "text": [
+            "Venezuela"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/wG5ipco.png ",
+      "answers": [
+        {
+          "text": [
+            "Vietnam"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/qtDaw2f.png ",
+      "answers": [
+        {
+          "text": [
+            "Western Sahara"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/4ExD2Ub.png ",
+      "answers": [
+        {
+          "text": [
+            "Yemen"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/PTjhJ38.png ",
+      "answers": [
+        {
+          "text": [
+            "Zambia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is represented by this flag? https://i.imgur.com/B5JXE6s.png ",
+      "answers": [
+        {
+          "text": [
+            "Zimbabwe"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Afghanistan?",
+      "answers": [
+        {
+          "text": [
+            "Kabul"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Albania?",
+      "answers": [
+        {
+          "text": [
+            "Tirana"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Algeria?",
+      "answers": [
+        {
+          "text": [
+            "Algiers"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Andorra?",
+      "answers": [
+        {
+          "text": [
+            "Andorra la Vella"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Angola?",
+      "answers": [
+        {
+          "text": [
+            "Luanda"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Antigua and Barbuda?",
+      "answers": [
+        {
+          "text": [
+            "Saint John's",
+            "saint johns",
+            "st johns",
+            "st. johns",
+            "st john's",
+            "st. john's",
+            "saintjohns",
+            "saintjohn's",
+            "stjohns",
+            "stjohn's",
+            "st.johns",
+            "st.john's"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Argentina?",
+      "answers": [
+        {
+          "text": [
+            "Buenos Aires"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Armenia?",
+      "answers": [
+        {
+          "text": [
+            "Yerevan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Australia?",
+      "answers": [
+        {
+          "text": [
+            "Canberra"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Austria?",
+      "answers": [
+        {
+          "text": [
+            "Vienna"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Azerbaijan?",
+      "answers": [
+        {
+          "text": [
+            "Baku"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Bahamas?",
+      "answers": [
+        {
+          "text": [
+            "Nassau"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Bahrain?",
+      "answers": [
+        {
+          "text": [
+            "Manama"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Bangladesh?",
+      "answers": [
+        {
+          "text": [
+            "Dhaka"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Barbados?",
+      "answers": [
+        {
+          "text": [
+            "Bridgetown"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Belarus?",
+      "answers": [
+        {
+          "text": [
+            "Minsk"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Belgium?",
+      "answers": [
+        {
+          "text": [
+            "Brussels"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Belize?",
+      "answers": [
+        {
+          "text": [
+            "Belmopan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Benin?",
+      "answers": [
+        {
+          "text": [
+            "Porto-Novo",
+            "porto novo",
+            "portonovo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Bhutan?",
+      "answers": [
+        {
+          "text": [
+            "Thimphu"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Name one of Bolivia's capitals?",
+      "answers": [
+        {
+          "text": [
+            "La Paz",
+            "Sucre"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Bosnia and Herzegovina?",
+      "answers": [
+        {
+          "text": [
+            "Sarajevo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Botswana?",
+      "answers": [
+        {
+          "text": [
+            "Gaborone"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Brazil?",
+      "answers": [
+        {
+          "text": [
+            "Brasilia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Brunei",
+      "answers": [
+        {
+          "text": [
+            "Bandar Seri Begawan",
+            "bandarseribegawan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Bulgaria?",
+      "answers": [
+        {
+          "text": [
+            "Sofia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Burkina Faso?",
+      "answers": [
+        {
+          "text": [
+            "Ouagadougou"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Burundi?",
+      "answers": [
+        {
+          "text": [
+            "Bujumbura"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Cabo Verde?",
+      "answers": [
+        {
+          "text": [
+            "Praia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Cambodia?",
+      "answers": [
+        {
+          "text": [
+            "Phnom Penh"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Cameroon?",
+      "answers": [
+        {
+          "text": [
+            "Yaound?",
+            "yaounde"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Canada?",
+      "answers": [
+        {
+          "text": [
+            "Ottawa"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Central African Republic?",
+      "answers": [
+        {
+          "text": [
+            "Bangui"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Chad?",
+      "answers": [
+        {
+          "text": [
+            "N'Djamena",
+            "ndjamena",
+            "n djamena"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Chile?",
+      "answers": [
+        {
+          "text": [
+            "Santiago"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of China?",
+      "answers": [
+        {
+          "text": [
+            "Beijing"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Colombia?",
+      "answers": [
+        {
+          "text": [
+            "Bogot?",
+            "Bogota"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Comoros?",
+      "answers": [
+        {
+          "text": [
+            "Moroni"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of the Republic of the Congo?",
+      "answers": [
+        {
+          "text": [
+            "Brazzaville"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of the Democratic Republic of the Congo?",
+      "answers": [
+        {
+          "text": [
+            "Kinshasa"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Costa Rica",
+      "answers": [
+        {
+          "text": [
+            "San Jose",
+            "Sanjose"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Cote d'Ivoire?",
+      "answers": [
+        {
+          "text": [
+            "Yamoussoukro"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Croatia?",
+      "answers": [
+        {
+          "text": [
+            "Zagreb"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Cuba?",
+      "answers": [
+        {
+          "text": [
+            "Havana"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Cyprus?",
+      "answers": [
+        {
+          "text": [
+            "Nicosia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Czech Republic?",
+      "answers": [
+        {
+          "text": [
+            "Prague"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Denmark?",
+      "answers": [
+        {
+          "text": [
+            "Copenhagen"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Djibouti?",
+      "answers": [
+        {
+          "text": [
+            "Djibouti"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Dominica?",
+      "answers": [
+        {
+          "text": [
+            "Roseau"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Dominican Republic?",
+      "answers": [
+        {
+          "text": [
+            "Santo Domingo",
+            "santodomingo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Ecuador?",
+      "answers": [
+        {
+          "text": [
+            "Quito"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Egypt?",
+      "answers": [
+        {
+          "text": [
+            "Cairo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of El Salvador?",
+      "answers": [
+        {
+          "text": [
+            "San Salvador",
+            "sansalvador"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Equatorial Guinea?",
+      "answers": [
+        {
+          "text": [
+            "Malabo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Eritrea?",
+      "answers": [
+        {
+          "text": [
+            "Asmara"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Estonia?",
+      "answers": [
+        {
+          "text": [
+            "Tallinn"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Ethiopia?",
+      "answers": [
+        {
+          "text": [
+            "Addis Ababa",
+            "addisababa"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Fiji?",
+      "answers": [
+        {
+          "text": [
+            "Suva"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Finland?",
+      "answers": [
+        {
+          "text": [
+            "Helsinki"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of France?",
+      "answers": [
+        {
+          "text": [
+            "Paris"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Gabon?",
+      "answers": [
+        {
+          "text": [
+            "Libreville"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Gambia?",
+      "answers": [
+        {
+          "text": [
+            "Banjul"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Georgia?",
+      "answers": [
+        {
+          "text": [
+            "Tbilisi"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Germany?",
+      "answers": [
+        {
+          "text": [
+            "Berlin"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Ghana?",
+      "answers": [
+        {
+          "text": [
+            "Accra"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Greece?",
+      "answers": [
+        {
+          "text": [
+            "Athens"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Grenada?",
+      "answers": [
+        {
+          "text": [
+            "St. George's",
+            "st georges",
+            "st george's",
+            "st.george's",
+            "stgeorges",
+            "stgeorge's"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Guatemala?",
+      "answers": [
+        {
+          "text": [
+            "Guatemala City"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Guinea?",
+      "answers": [
+        {
+          "text": [
+            "Conakry"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Guinea-Bissau?",
+      "answers": [
+        {
+          "text": [
+            "Bissau"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Guyana?",
+      "answers": [
+        {
+          "text": [
+            "Georgetown"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Haiti?",
+      "answers": [
+        {
+          "text": [
+            "Port-au-Prince",
+            "port au prince",
+            "portauprince"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Honduras?",
+      "answers": [
+        {
+          "text": [
+            "Tegucigalpa"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Hungary?",
+      "answers": [
+        {
+          "text": [
+            "Budapest"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Iceland?",
+      "answers": [
+        {
+          "text": [
+            "Reykjavik"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of India?",
+      "answers": [
+        {
+          "text": [
+            "New Delhi",
+            "newdelhi"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Indonesia?",
+      "answers": [
+        {
+          "text": [
+            "Jakarta"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Iran?",
+      "answers": [
+        {
+          "text": [
+            "Tehran"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Iraq?",
+      "answers": [
+        {
+          "text": [
+            "Baghdad"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Ireland?",
+      "answers": [
+        {
+          "text": [
+            "Dublin"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Israel?",
+      "answers": [
+        {
+          "text": [
+            "Jerusalem"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Italy?",
+      "answers": [
+        {
+          "text": [
+            "Rome"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Jamaica?",
+      "answers": [
+        {
+          "text": [
+            "Kingston"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Japan?",
+      "answers": [
+        {
+          "text": [
+            "Tokyo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Jordan?",
+      "answers": [
+        {
+          "text": [
+            "Amman"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Kazakhstan?",
+      "answers": [
+        {
+          "text": [
+            "Astana"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Kenya?",
+      "answers": [
+        {
+          "text": [
+            "Nairobi"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Kiribati?",
+      "answers": [
+        {
+          "text": [
+            "South Tarawa",
+            "southtarawa"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Kosovo?",
+      "answers": [
+        {
+          "text": [
+            "Pristina"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Kuwait?",
+      "answers": [
+        {
+          "text": [
+            "Kuwait City",
+            "kuwaitcity"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Kyrgyzstan?",
+      "answers": [
+        {
+          "text": [
+            "Bishkek"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Laos?",
+      "answers": [
+        {
+          "text": [
+            "Vientiane"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Latvia?",
+      "answers": [
+        {
+          "text": [
+            "Riga"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Lebanon?",
+      "answers": [
+        {
+          "text": [
+            "Beirut"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Lesotho?",
+      "answers": [
+        {
+          "text": [
+            "Maseru"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Liberia?",
+      "answers": [
+        {
+          "text": [
+            "Monrovia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Libya?",
+      "answers": [
+        {
+          "text": [
+            "Tripoli"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Liechtenstein?",
+      "answers": [
+        {
+          "text": [
+            "Vaduz"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Lithuania?",
+      "answers": [
+        {
+          "text": [
+            "Vilnius"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Luxembourg?",
+      "answers": [
+        {
+          "text": [
+            "Luxembourg"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Macedonia?",
+      "answers": [
+        {
+          "text": [
+            "Skopje"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Madagascar?",
+      "answers": [
+        {
+          "text": [
+            "Antananarivo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Malawi?",
+      "answers": [
+        {
+          "text": [
+            "Lilongwe"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Malaysia?",
+      "answers": [
+        {
+          "text": [
+            "Kuala Lumpur",
+            "kualalumpur"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Maldives?",
+      "answers": [
+        {
+          "text": [
+            "Male"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Mali?",
+      "answers": [
+        {
+          "text": [
+            "Bamako"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Malta?",
+      "answers": [
+        {
+          "text": [
+            "Valletta"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of the Marshall Islands?",
+      "answers": [
+        {
+          "text": [
+            "Majuro"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Mauritania?",
+      "answers": [
+        {
+          "text": [
+            "Nouakchott"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Mauritius?",
+      "answers": [
+        {
+          "text": [
+            "Port Louis",
+            "portlouis"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Mexico?",
+      "answers": [
+        {
+          "text": [
+            "Mexico City",
+            "mexicocity"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Micronesia?",
+      "answers": [
+        {
+          "text": [
+            "Palikir"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Moldova?",
+      "answers": [
+        {
+          "text": [
+            "Chisinau"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Monaco?",
+      "answers": [
+        {
+          "text": [
+            "Monaco"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Mongolia?",
+      "answers": [
+        {
+          "text": [
+            "Ulaanbaatar"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Montenegro?",
+      "answers": [
+        {
+          "text": [
+            "Podgorica"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Morocco?",
+      "answers": [
+        {
+          "text": [
+            "Rabat"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Mozambique?",
+      "answers": [
+        {
+          "text": [
+            "Maputo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Myanmar (Burma)?",
+      "answers": [
+        {
+          "text": [
+            "Naypyidaw"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Namibia?",
+      "answers": [
+        {
+          "text": [
+            "Windhoek"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Nauru?",
+      "answers": [
+        {
+          "text": [
+            "Yaren District",
+            "yarendistrict"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Nepal?",
+      "answers": [
+        {
+          "text": [
+            "Kathmandu"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of the Netherlands?",
+      "answers": [
+        {
+          "text": [
+            "Amsterdam"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of New Zealand?",
+      "answers": [
+        {
+          "text": [
+            "Wellington"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Nicaragua?",
+      "answers": [
+        {
+          "text": [
+            "Managua"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Niger?",
+      "answers": [
+        {
+          "text": [
+            "Niamey"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Nigeria?",
+      "answers": [
+        {
+          "text": [
+            "Abuja"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of North Korea?",
+      "answers": [
+        {
+          "text": [
+            "Pyongyang",
+            "pyong yang"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Norway?",
+      "answers": [
+        {
+          "text": [
+            "Oslo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Oman?",
+      "answers": [
+        {
+          "text": [
+            "Muscat"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Pakistan?",
+      "answers": [
+        {
+          "text": [
+            "Islamabad"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Palau?",
+      "answers": [
+        {
+          "text": [
+            "Ngerulmud"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Palestine?",
+      "answers": [
+        {
+          "text": [
+            "Ramallah"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Panama?",
+      "answers": [
+        {
+          "text": [
+            "Panama City",
+            "panamacity"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Papua New Guinea?",
+      "answers": [
+        {
+          "text": [
+            "Port Moresby",
+            "portmoresby"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Paraguay?",
+      "answers": [
+        {
+          "text": [
+            "Asunci?n",
+            "asuncion"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Peru?",
+      "answers": [
+        {
+          "text": [
+            "Lima"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Philippines?",
+      "answers": [
+        {
+          "text": [
+            "Manila"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Poland?",
+      "answers": [
+        {
+          "text": [
+            "Warsaw"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Portugal?",
+      "answers": [
+        {
+          "text": [
+            "Lisbon"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Qatar?",
+      "answers": [
+        {
+          "text": [
+            "Doha"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Romania?",
+      "answers": [
+        {
+          "text": [
+            "Bucharest"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Russia?",
+      "answers": [
+        {
+          "text": [
+            "Moscow"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Rwanda?",
+      "answers": [
+        {
+          "text": [
+            "Kigali"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Saint Kitts and Nevis?",
+      "answers": [
+        {
+          "text": [
+            "Basseterre"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Saint Lucia?",
+      "answers": [
+        {
+          "text": [
+            "Castries"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Saint Vincent and the Grenadines?",
+      "answers": [
+        {
+          "text": [
+            "Kingstown"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Samoa?",
+      "answers": [
+        {
+          "text": [
+            "Apia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of San Marino?",
+      "answers": [
+        {
+          "text": [
+            "San Marino",
+            "sanmarino"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Sao Tome and Principe?",
+      "answers": [
+        {
+          "text": [
+            "S?o Tom?",
+            "sao tome",
+            "saotome"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Saudi Arabia?",
+      "answers": [
+        {
+          "text": [
+            "Riyadh"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Senegal?",
+      "answers": [
+        {
+          "text": [
+            "Dakar"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Serbia?",
+      "answers": [
+        {
+          "text": [
+            "Belgrade"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Seychelles?",
+      "answers": [
+        {
+          "text": [
+            "Victoria"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Sierra Leone?",
+      "answers": [
+        {
+          "text": [
+            "Freetown"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Singapore?",
+      "answers": [
+        {
+          "text": [
+            "Singapore"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Slovakia?",
+      "answers": [
+        {
+          "text": [
+            "Bratislava"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Slovenia?",
+      "answers": [
+        {
+          "text": [
+            "Ljubljana"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Solomon Islands?",
+      "answers": [
+        {
+          "text": [
+            "Honiara"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Somalia?",
+      "answers": [
+        {
+          "text": [
+            "Mogadishu"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Name of the capitals of South Africa?",
+      "answers": [
+        {
+          "text": [
+            "Pretoria",
+            "Cape Town",
+            "capetown",
+            "Bloemfontein"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of South Korea?",
+      "answers": [
+        {
+          "text": [
+            "Seoul"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of South Sudan?",
+      "answers": [
+        {
+          "text": [
+            "Juba"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Spain?",
+      "answers": [
+        {
+          "text": [
+            "Madrid"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Sri Lanka?",
+      "answers": [
+        {
+          "text": [
+            "Sri Jayawardenepura Kotte",
+            "srijawawardenpurakotte",
+            "Kotte"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Sudan?",
+      "answers": [
+        {
+          "text": [
+            "Khartoum"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Suriname?",
+      "answers": [
+        {
+          "text": [
+            "Paramaribo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Swaziland?",
+      "answers": [
+        {
+          "text": [
+            "Mbabane"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Sweden?",
+      "answers": [
+        {
+          "text": [
+            "Stockholm"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Switzerland?",
+      "answers": [
+        {
+          "text": [
+            "Bern"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Syria?",
+      "answers": [
+        {
+          "text": [
+            "Damascus"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Taiwan?",
+      "answers": [
+        {
+          "text": [
+            "Taipei"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Tajikistan?",
+      "answers": [
+        {
+          "text": [
+            "Dushanbe"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Tanzania?",
+      "answers": [
+        {
+          "text": [
+            "Dodoma"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Thailand?",
+      "answers": [
+        {
+          "text": [
+            "Bangkok"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Timor-Leste?",
+      "answers": [
+        {
+          "text": [
+            "Dili"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Togo?",
+      "answers": [
+        {
+          "text": [
+            "Lom?",
+            "lome"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Tonga?",
+      "answers": [
+        {
+          "text": [
+            "Nuku'alofa",
+            "nukualofa"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Trinidad and Tobago?",
+      "answers": [
+        {
+          "text": [
+            "Port of Spain",
+            "portofspain"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Tunisia?",
+      "answers": [
+        {
+          "text": [
+            "Tunis"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Turkey?",
+      "answers": [
+        {
+          "text": [
+            "Ankara"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Turkmenistan?",
+      "answers": [
+        {
+          "text": [
+            "Ashgabat"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Tuvalu?",
+      "answers": [
+        {
+          "text": [
+            "Funafuti"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Uganda?",
+      "answers": [
+        {
+          "text": [
+            "Kampala"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Ukraine?",
+      "answers": [
+        {
+          "text": [
+            "Kyiv",
+            "Kiev"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of United Arab Emirates?",
+      "answers": [
+        {
+          "text": [
+            "Abu Dhabi",
+            "abudhabi"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of the United Kingdom?",
+      "answers": [
+        {
+          "text": [
+            "London"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of the United States of America?",
+      "answers": [
+        {
+          "text": [
+            "Washington, D.C.",
+            "washingtondc",
+            "washington dc",
+            "washington d.c.",
+            "washington, dc",
+            "washington,d.c.",
+            "washington,dc",
+            "washingtond.c."
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Uruguay?",
+      "answers": [
+        {
+          "text": [
+            "Montevideo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Uzbekistan?",
+      "answers": [
+        {
+          "text": [
+            "Tashkent"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Vanuatu?",
+      "answers": [
+        {
+          "text": [
+            "Port Vila",
+            "portvila"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of the Vatican City (Holy See)?",
+      "answers": [
+        {
+          "text": [
+            "Vatican City",
+            "vatican city"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Venezuela?",
+      "answers": [
+        {
+          "text": [
+            "Caracas"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Vietnam?",
+      "answers": [
+        {
+          "text": [
+            "Hanoi"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Yemen?",
+      "answers": [
+        {
+          "text": [
+            "Sana'a",
+            "sanaa",
+            "sana a"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Zambia?",
+      "answers": [
+        {
+          "text": [
+            "Lusaka"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Zimbabwe?",
+      "answers": [
+        {
+          "text": [
+            "Harare"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which operation takes more than O(1) time with the Hash Table data structure?",
+      "answers": [
+        {
+          "text": [
+            "Sort",
+            "sort"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "If you need to sort a very large list of integers (billions), what efficient sorting algorithm would be your best bet?",
+      "answers": [
+        {
+          "text": [
+            "Quicksort",
+            "quicksort"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What mega media company merged with AOL at the turn of the century? Clue: initials are TW.",
+      "answers": [
+        {
+          "text": [
+            "Time Warner",
+            "TW",
+            "time warner"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What do they call people who register domain names with the hope of selling them for a profit",
+      "answers": [
+        {
+          "text": [
+            "squatters",
+            "Squatters",
+            "Cybersquatters",
+            "cybersquatters"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Name one of authors of the book The C programming language. The authors are often referred to as K&R.",
+      "answers": [
+        {
+          "text": [
+            "Brian Kernighan",
+            "Dennis Ritchie"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Dennis Richie also developed what computer operating system at Bell labs with Ken Thompson and Douglas Mcllroy?",
+      "answers": [
+        {
+          "text": [
+            "Unix"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Name the primary creator of the Java programming language.",
+      "answers": [
+        {
+          "text": [
+            "James Gosling"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "In 1914, Thomas J Watson renamed the Computing Tabulating Recording Corporation (CTR) to what?",
+      "answers": [
+        {
+          "text": [
+            "IBM"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Name the famous computer scientist who worked to break Nazi codes at Bletchley Park during WWII.",
+      "answers": [
+        {
+          "text": [
+            "Alan Turing"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who single handedly built the first Apple computer that launched the personal computing era?",
+      "answers": [
+        {
+          "text": [
+            "Steve Wozniak",
+            "Woz"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the year of the Unix epoch?",
+      "answers": [
+        {
+          "text": [
+            "1970"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What does the company AMD stand for?",
+      "answers": [
+        {
+          "text": [
+            "Advanced Micro Devices"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who wrote a BASIC version for the 8080 microprocessor, Altair, in 1975?",
+      "answers": [
+        {
+          "text": [
+            "Bill Gates",
+            "Paul Allen"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who is the Ada programming language named after?",
+      "answers": [
+        {
+          "text": [
+            "Ada Lovelace"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which Google vice president co-designed TCP/IP is regarded by some as the father of the Internet?",
+      "answers": [
+        {
+          "text": [
+            "Vint Cerf"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Vint Cerf is regarded as the father of the Internet but who is the person that actually invented the World Wide Web?",
+      "answers": [
+        {
+          "text": [
+            "Tim Berners-Lee"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Into how many zones are DVD’s divided worldwide?",
+      "answers": [
+        {
+          "text": [
+            "Eight",
+            "8"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The Apple ---- was the first computer to have a GUI and a mouse.",
+      "answers": [
+        {
+          "text": [
+            "Lisa"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Name one the founders of Yahoo.",
+      "answers": [
+        {
+          "text": [
+            "David Filo",
+            "Jerry Yang"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who founded the Free Software Foundation?",
+      "answers": [
+        {
+          "text": [
+            "Richard Stallman"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which company is the largest manufacturer of network equipment?",
+      "answers": [
+        {
+          "text": [
+            "Cisco"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is CE in Windows CE stand for?",
+      "answers": [
+        {
+          "text": [
+            "Consumer Electronics"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is BSD in BSD Unix?",
+      "answers": [
+        {
+          "text": [
+            "Berkeley Software Distribution"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the name of the popular free software license written by Richard Stallman for the GNU project?",
+      "answers": [
+        {
+          "text": [
+            "GPL",
+            "GNU Public License"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What year was Google founded?",
+      "answers": [
+        {
+          "text": [
+            "1998"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What free loving programmer created the GCC compiler and the original Emacs?",
+      "answers": [
+        {
+          "text": [
+            "Richard Stallman"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What company is the world's largest maker of computer mice?",
+      "answers": [
+        {
+          "text": [
+            "Logitech"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What was the first full-length computer generated feature film?",
+      "answers": [
+        {
+          "text": [
+            "Toy story"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which company invented the floppy disk?",
+      "answers": [
+        {
+          "text": [
+            "IBM"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the name of Linux’s Mascot?",
+      "answers": [
+        {
+          "text": [
+            "Tux"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "A nibble is how many bits?",
+      "answers": [
+        {
+          "text": [
+            "4"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What game system was the first to offer online gaming?",
+      "answers": [
+        {
+          "text": [
+            "Dreamcast"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What Apple media file format became the basis for MPEG-4 files?",
+      "answers": [
+        {
+          "text": [
+            "QuickTime"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What does the computer acronym PnP stand for?",
+      "answers": [
+        {
+          "text": [
+            "Plug & Play",
+            "Plug n Play",
+            "Plug and Play"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What file-sharing software was named for creator Shawn Fanning’s frizzy hair?",
+      "answers": [
+        {
+          "text": [
+            "Napster"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What does the “W” stand for on a WAP phone?",
+      "answers": [
+        {
+          "text": [
+            "wireless"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "How many zeros are in a Googol?",
+      "answers": [
+        {
+          "text": [
+            "100"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What chess-playing computer developed by IBM that defeated world champion Garry Kasparov in 1997? Feel free to Google this one. LOL.",
+      "answers": [
+        {
+          "text": [
+            "Deep blue"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Amazon has recently released a variety of services for web developers. Some of these services are Elastic Compute Cloud (ECC), Simple Storage Service (S3), SimpleDB, and several others. Collectively these services are known as what?",
+      "answers": [
+        {
+          "text": [
+            "Amazon Web Services",
+            "AWS"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Complete this quote: Computers are useless. They can only give you a-----s. (Pablo Picasso)",
+      "answers": [
+        {
+          "text": [
+            "answers"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "An Athlon 600 mhz CPU has -- million transistors. Clue: between 10 and 40.",
+      "answers": [
+        {
+          "text": [
+            "22"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "There are -- million lines of code in Windows 98. Clue: two digit less than 20.",
+      "answers": [
+        {
+          "text": [
+            "18"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The M in MP3 stands for ----",
+      "answers": [
+        {
+          "text": [
+            "MPEG"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "An outbreak in which multiplayer video game attracted the attention of epidemiologists?",
+      "answers": [
+        {
+          "text": [
+            "World of Warcraft",
+            "wow"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What was the first computer with internally stored programs? Clue: four capital letters.",
+      "answers": [
+        {
+          "text": [
+            "SSEM"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Before it became Google's email domain, fans of which known cat used Gmail.com?",
+      "answers": [
+        {
+          "text": [
+            "garfield"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which popular CD burning app’s name is a historical pun?",
+      "answers": [
+        {
+          "text": [
+            "Nero"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Nintendo’s only attempt into breakfast cereal featured which characters?",
+      "answers": [
+        {
+          "text": [
+            "mario"
+          ]
+        },
+        {
+          "text": [
+            "link"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What preinstalled Windows game was secretly intended to increase mouse proficiency?",
+      "answers": [
+        {
+          "text": [
+            "Solitaire"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The first Google server was built from what? Clue: kiddie thingies.",
+      "answers": [
+        {
+          "text": [
+            "LEGO"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which sorting algorithm has an upper bound of O(n lg n)?",
+      "answers": [
+        {
+          "text": [
+            "Merge Sort",
+            "MergeSort"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "In what year was the specification for the COBOL language created?",
+      "answers": [
+        {
+          "text": [
+            "1959"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which of the following JavaScript libraries was originally built as an add-on library extension to the Yahoo! User Interface Libary (YUI)?",
+      "answers": [
+        {
+          "text": [
+            "ExtJS"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the name of the Java mascot?",
+      "answers": [
+        {
+          "text": [
+            "Duke"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "In 2010, which job did CNN.com rank as the #1 \"Best Job in America\"?",
+      "answers": [
+        {
+          "text": [
+            "Software Architect"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who founded the \"Free Software Foundation\"?",
+      "answers": [
+        {
+          "text": [
+            "Richard Stallman"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "In 1977, Rivest, Shamir and Adleman published a paper on what is known as the RSA encryption algorithm. However, this algorithm had already been independently developed by a mathematician working for the British government. The development happened in 1973, but was treated as classified information and not released to the public until 1997. What is the name of the mathematician who developed the algorithm for the British government?",
+      "answers": [
+        {
+          "text": [
+            "Clifford Cocks"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which operation takes more than O(1) time with the Hash Table data structure?",
+      "answers": [
+        {
+          "text": [
+            "Sort"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who is the creator of the JavaScript scripting language?",
+      "answers": [
+        {
+          "text": [
+            "Brendan Eich"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the running time of a binary search on a sorted array of n elements?",
+      "answers": [
+        {
+          "text": [
+            "O(lg n)",
+            "O(lgn)",
+            "lgn",
+            "O(logn)",
+            "O(log n)"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What was the first song ever sung by a computer?",
+      "answers": [
+        {
+          "text": [
+            "Daisy Bell"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "In Java, all non-static methods are by default \"____\"?",
+      "answers": [
+        {
+          "text": [
+            "virtual"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What was Java called before it was Java?",
+      "answers": [
+        {
+          "text": [
+            "Oak"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which famous computer scientist killed himself by eating a posion apple?",
+      "answers": [
+        {
+          "text": [
+            "Alan Turing"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the worst case running time for finding an element in a Splay Tree?",
+      "answers": [
+        {
+          "text": [
+            "O(n)"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "0xb - 0xe + 0xd?",
+      "answers": [
+        {
+          "text": [
+            "0xa"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What programming language did Bjarne Stroustrup create?",
+      "answers": [
+        {
+          "text": [
+            "C++"
+          ]
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "startQuestionGap": 3,
+    "questionTime": 3600,
+    "nextQuestionGap": 10,
+    "pointsPerQuestion": 1,
+    "randomise": true,
+    "questionGap": 3
+  }
+}

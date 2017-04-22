@@ -237,7 +237,7 @@
       "answers": [
         {
           "text": [
-            "Berkley Software Distribution"
+            "Berkeley Software Distribution"
           ]
         }
       ]
@@ -699,11 +699,11 @@
     }
   ],
   "settings": {
-    "startQuestionGap": 0,
-    "questionTime": 0,
-    "nextQuestionGap": 0,
+    "startQuestionGap": 3,
+    "questionTime": 3600,
+    "nextQuestionGap": 10,
     "pointsPerQuestion": 1,
     "randomise": true,
-    "questionGap": 0
+    "questionGap": 3
   }
 }

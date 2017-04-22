@@ -1,0 +1,1310 @@
+{
+    "questions": [
+        {
+            "text": "What is the element symbol of \"Hydrogen\"?",
+            "answers": [
+                {
+                    "text": [
+                        "H"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Helium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "He"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Lithium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Li"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Berylium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Be"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Boron\"?",
+            "answers": [
+                {
+                    "text": [
+                        "B"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Carbon\"?",
+            "answers": [
+                {
+                    "text": [
+                        "C"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Nitrogen\"?",
+            "answers": [
+                {
+                    "text": [
+                        "N"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Oxygen\"?",
+            "answers": [
+                {
+                    "text": [
+                        "O"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Fluorine\"?",
+            "answers": [
+                {
+                    "text": [
+                        "F"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Neon\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Ne"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Sodium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Na"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Magnesium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Mg"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Aluminum\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Al"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Silicon\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Si"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Phosphorus\"?",
+            "answers": [
+                {
+                    "text": [
+                        "P"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Sulfur\"?",
+            "answers": [
+                {
+                    "text": [
+                        "S"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Chlorine\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Cl"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Argon\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Ar"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Potassium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "K"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Calcium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Ca"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Scandium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Sc"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Titanium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Ti"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Vanadium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "V"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Chromium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Cr"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Manganese\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Mn"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Iron\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Fe"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Cobalt\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Co"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Nickel\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Ni"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Copper\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Cu"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Zinc\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Zn"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Gallium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Ga"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Germanium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Ge"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Arsenic\"?",
+            "answers": [
+                {
+                    "text": [
+                        "As"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Selenium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Se"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Bromine\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Br"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Krypton\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Kr"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Rubidium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Rb"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Strontium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Sr"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Yttrium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Y"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Zirconium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Zr"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Niobium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Nb"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Molybdenum\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Mo"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Technetium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Tc"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Ruthenium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Ru"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Rhodium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Rh"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Palladium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Pd"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Silver\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Ag"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Cadmium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Cd"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Indium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "In"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Tin\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Sn"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Antimony\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Sb"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Tellurium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Te"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Iodine\"?",
+            "answers": [
+                {
+                    "text": [
+                        "I"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Xenon\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Xe"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Cesium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Cs"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Barium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Ba"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Hafnium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Hf"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Tantalum\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Ta"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Tungsten\"?",
+            "answers": [
+                {
+                    "text": [
+                        "W"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Rhenium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Re"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Osmium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Os"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Iridium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Ir"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Platinum\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Pt"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Gold\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Au"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Mercury\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Hg"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Thallium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Tl"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Lead\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Pb"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Bismuth\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Bi"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Polonium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Po"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Astatine\"?",
+            "answers": [
+                {
+                    "text": [
+                        "At"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Radon\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Rn"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Francium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Fr"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Radium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Ra"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Rutherfordium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Rf"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Dubnium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Db"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Seaborgium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Sg"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Bohrium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Bh"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Hassium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Hs"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Meitnerium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Mt"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Darmstadtium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Ds"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Roentgnium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Rg"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Copernicium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Cn"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Nihonium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Nh"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Flerovium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Fl"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Moscovium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Mc"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Livermorium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Lv"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Tennessine\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Ts"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Oganesson\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Og"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Lanthanum\"?",
+            "answers": [
+                {
+                    "text": [
+                        "La"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Cerium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Ce"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Praseodymium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Pr"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Neodymium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Nd"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Promethium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Pm"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Samarium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Sm"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Europium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Eu"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Gadolinium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Gd"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Terbium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Tb"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Dysprosium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Dy"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Holmium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Ho"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Erbium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Er"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Thulium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Tm"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Ytterbium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Yb"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Lutetium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Lu"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Actinium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Ac"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Thorium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Th"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Protactinium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Pa"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Uranium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "U"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Neptunium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Np"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Plutonium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Pu"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Americium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Am"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Curium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Cm"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Berkelium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Bk"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Califormium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Cf"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Einsteinium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Es"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Fermium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Fm"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Mendelevium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Md"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Nobelium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "No"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        },
+        {
+            "text": "What is the element symbol of \"Lawrencium\"?",
+            "answers": [
+                {
+                    "text": [
+                        "Lr"
+                    ]
+                }
+            ],
+            "answersNeeded": 1
+        }
+    ],
+    "settings": {
+        "startQuestionGap": 3,
+        "questionTime": 3600,
+        "nextQuestionGap": 10,
+        "pointsPerQuestion": 1,
+        "randomise": true,
+        "questionGap": 3
+    }
+}

@@ -17,9 +17,9 @@ var QuizEvents = {
     OTHER_POSSIBLE_ANSWERS: 'otherPossibleAnswers',
     ANSWER_PROMPT_10_SECONDS_LEFT: 'answerPrompt10SecondsLeft',
     SHOW_SCORES: 'showScores',
-    QUIZ_COMPLETE: 'quizComplete'
-}
-
+    QUIZ_COMPLETE: 'quizComplete',
+    QUESTION_SKIP: 'questionSkip'
+};
 
 function Quiz() {
     this.settings = {
@@ -29,12 +29,16 @@ function Quiz() {
         pointsPerQuestion: 1,
         showScoreInterval: 5,
         timeBetweenIncorrectResponses: 10,
-        continuous: true
+        continuous: true,
+        skipCount: 3,
+        hintCharactersPercent: 25, 
     };
+
     this.state = QuizState.IDLE;
     this.currentQuestionIndex = 0;
     this.questions = [];
     this.scores = [];
+    this.skips = {};
     this.lastIncorrectAnswerPing = 0;
     this.showScoreCount = 0;
 };
@@ -56,23 +60,27 @@ Quiz.prototype.init = function (data, slackChannel) {
     this.locale = data.locale;
     this.slackChannel = slackChannel;
 };
+
 Quiz.prototype.start = function () {
     if (this.state == QuizState.IDLE) {
         this.currentQuestionIndex = 0;
         this.startQuestion();
     }
 };
+
 Quiz.prototype.pause = function () {
     if (this.state != QuizState.PAUSED) {
         this.prePausedState = this.state;
         this.state = QuizState.PAUSED;
     }
 };
+
 Quiz.prototype.resume = function () {
     if (this.state == QuizState.PAUSED) {
         this.state = this.prePausedState;
     }
 };
+
 Quiz.prototype.stop = function () {
     clearInterval(this.interval);
     this.state = QuizState.IDLE;
@@ -81,7 +89,7 @@ Quiz.prototype.stop = function () {
 Quiz.prototype.shuffle = function (o) {
     for (var j, x, i = o.length; i; j = Math.floor(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
     return o;
-}
+};
 
 Quiz.prototype.getCustomLocale = function (id) {
     if (this.locale != null && this.locale[id] && this.locale[id].length > 0) {
@@ -98,10 +106,12 @@ Quiz.prototype.startQuestion = function () {
         this.prepQuestion();
     }
 };
+
 Quiz.prototype.prepQuestion = function () {
     this.emit(QuizEvents.QUESTION_PREP, this, this.currentQuestionIndex);
     setTimeout(this.outputQuestion.bind(this), this.settings.startQuestionGap * 1000);
-}
+};
+
 Quiz.prototype.outputQuestion = function () {
     this.interval = setInterval(this.update.bind(this), 1000);
     this.currentQuestion = this.questions[this.currentQuestionIndex];
@@ -110,11 +120,29 @@ Quiz.prototype.outputQuestion = function () {
     this.currentQuestion.answerCount = this.currentQuestion.answersNeeded || this.currentQuestion.answers.length;
     this.currentQuestion.pendingAnswers = this.currentQuestion.answers;
     this.emit(QuizEvents.QUESTION, this, this.currentQuestion);
-}
+};
+
 Quiz.prototype.timeoutQuestion = function () {
     this.emit(QuizEvents.QUESTION_TIMEOUT, this, this.currentQuestion);
     this.endQuestion();
-}
+};
+
+Quiz.prototype.skipQuestion = function () {
+    this.emit(QuizEvents.QUESTION_SKIP, this, this.currentQuestion);
+    this.endQuestion();
+    this.skips = {};
+};
+
+Quiz.prototype.markSkipped = function (user) {
+    if (user == null) return;
+    var name = user.name || Math.random().toString(36).substring(7);
+    this.skips[name] = true;
+
+    if (Object.keys(this.skips).length >= this.settings.skipCount) {
+        this.skipQuestion();
+    }
+};
+
 Quiz.prototype.endQuestion = function () {
     this.state = QuizState.QUESTION_ANSWERED;
     clearInterval(this.interval);
@@ -127,6 +155,7 @@ Quiz.prototype.endQuestion = function () {
         setTimeout(this.nextQuestion.bind(this), this.settings.nextQuestionGap * 1000);
     }
 };
+
 Quiz.prototype.nextQuestion = function () {
     if (this.state == QuizState.QUESTION_ANSWERED) {
         if (this.currentQuestionIndex < this.questions.length - 1) {
@@ -143,13 +172,16 @@ Quiz.prototype.nextQuestion = function () {
         }
     }
 };
+
 Quiz.prototype.complete = function () {
     this.state = QuizState.IDLE;
     this.emit(QuizEvents.QUIZ_COMPLETE, this);
 };
+
 Quiz.prototype.isQuestionActive = function () {
     return this.state == QuizState.QUESTION_PENDING;
 };
+
 Quiz.prototype.checkAnswer = function (text, user) {
     if (user == null) return;
     var userText = text.toLowerCase();
@@ -184,6 +216,7 @@ Quiz.prototype.checkAnswer = function (text, user) {
         }
     }
 };
+
 Quiz.prototype.getCorrectAnswers = function () {
     var text = "";
     var len = this.currentQuestion.answers.length;
@@ -208,7 +241,7 @@ Quiz.prototype.addScore = function (user, points) {
     if (!isFound) {
         this.scores.push({ "user": user, "points": points });
     }
-}
+};
 
 function sortScores(a, b) {
     if (a.points == b.points) {
@@ -216,7 +249,7 @@ function sortScores(a, b) {
     } else {
         return (a.points < b.points) ? 1 : -1;
     }
-}
+};
 
 Quiz.prototype.getScores = function (verb) {
     var text = "";

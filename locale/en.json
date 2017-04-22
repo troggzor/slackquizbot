@@ -73,6 +73,9 @@
 		"Bong! Time has run out on that one...",
 		"Nope? Ok, let's move on."
 	],
+	"questionSkip": [
+		"Question skipped..."
+	],
 	"incorrectAnswer":[
 		"Nope...",
 		"Incorrect",
@@ -116,5 +119,8 @@
 	"closer":[
 		"That's a wrap, see you later everyone! :wave:",
 		"Thanks for playing everyone! :clap:"
+	],
+	"questionHint": [
+		":bulb: *Hint (<length> letters):*   <hint>"
 	]
 }
