@@ -1,7 +1,7 @@
 var fs = require('fs');
 var SlackAPI = require('slackbotapi');
 var Quiz = require('./quiz.js');
-var NodeCache = require( "node-cache" );
+var NodeCache = require('node-cache');
 
 function QuizBot(slackToken, locale) {
 	if (typeof locale === 'undefined') { locale = 'en'; }
@@ -377,8 +377,8 @@ QuizBot.prototype.onFileShared = function (data) {
 };
 
 QuizBot.prototype.showHint = function (quiz, user) {
-    if (quiz == null || quiz.currentQuestion == null) return;
-    var key = quiz.slackChannel + '_' + user.id;
+	if (quiz == null || quiz.currentQuestion == null) return;
+	var key = quiz.slackChannel + '_' + user.id;
 	if (this.cache.get(key) != null) {
 		return;
 	}
@@ -424,12 +424,10 @@ QuizBot.prototype.exitHandler = function (options, err) {
 		console.log(message);
 		this.slack.sendPM("bogdan.boiculese", "Psst, i crashed..." + message);
 	} else {
-        // note:
-        var channels = this.quizzes.map(function(q) { return q; });
-		for (var channel of channels) {
-			//this.slack.sendMsg(channel, "Disconnected...");
-			console.log(channel + ' ' + "Disconnected");
-		}
+		Object.keys(this.quizzes).forEach(channel => {
+			this.slack.sendMsg(channel, "Disconnected...");
+			this.quizzes[channel].saveScores();
+		});
 	}
 
 	// note: wait for notification to be sent

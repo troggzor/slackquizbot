@@ -1,5 +1,6 @@
 var util = require('util');
 var EventEmitter = require('eventemitter3');
+var fs = require('fs');
 
 var QuizState = {
     IDLE: 0,
@@ -31,7 +32,7 @@ function Quiz() {
         timeBetweenIncorrectResponses: 10,
         continuous: true,
         skipCount: 3,
-        hintCharactersPercent: 40, 
+        hintCharactersPercent: 40,
         hintInterval: 10
     };
 
@@ -60,6 +61,7 @@ Quiz.prototype.init = function (data, slackChannel) {
     }
     this.locale = data.locale;
     this.slackChannel = slackChannel;
+    this.restoreScores();
 };
 
 Quiz.prototype.start = function () {
@@ -280,6 +282,19 @@ Quiz.prototype.update = function () {
         if (this.currentQuestion.timeLeft == 10) {
             this.emit(QuizEvents.ANSWER_PROMPT_10_SECONDS_LEFT, this, this.currentQuestion.timeLeft);
         }
+    }
+};
+
+Quiz.prototype.saveScores = function () {
+    console.log(`Save scores: ${this.slackChannel}`);
+    fs.writeFileSync(`data/scores/${this.slackChannel}.json`, JSON.stringify(this.scores));
+};
+
+Quiz.prototype.restoreScores = function () {
+    var path = `data/scores/${this.slackChannel}.json`;
+    if (fs.existsSync(path)) {
+        var data = fs.readFileSync(path, 'utf8').trim('"')
+        this.scores = JSON.parse(data);
     }
 };
 
