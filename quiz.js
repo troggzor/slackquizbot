@@ -205,6 +205,7 @@ Quiz.prototype.checkAnswer = function (text, user) {
         var points = this.currentQuestion.points * correctAnswers.length;
         this.addScore(user.name, points);
         this.emit(QuizEvents.CORRECT_ANSWER, this, user, correctAnswers, points, this.currentQuestion.answerCount);
+        this.saveScores();
         if (this.currentQuestion.answerCount == 0) {
             if (this.currentQuestion.pendingAnswers.length > 0) {
                 this.emit(QuizEvents.OTHER_POSSIBLE_ANSWERS, this, this.currentQuestion.pendingAnswers);
