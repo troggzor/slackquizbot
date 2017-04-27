@@ -1,0 +1,8 @@
+title: Slack Quizbot
+description: A bot who can run customisable quizzes in your Slack channels
+google_analytics: UA-13138213-7
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
