@@ -6433,6 +6433,7809 @@
           ]
         }
       ]
+    },
+    {
+      "text": "How long is a MLS soccer match?",
+      "answers": [
+        {
+          "text": [
+            "90 Mins",
+            "90",
+            "90m",
+            "90 minutes"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What was Sleeping Beauty's given name?",
+      "answers": [
+        {
+          "text": [
+            "Aurora"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "\"Neuro\" means related to the what?",
+      "answers": [
+        {
+          "text": [
+            "Brain"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Luke, I am your ...?",
+      "answers": [
+        {
+          "text": [
+            "Father"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who was the first person to do a 900 degree in skateboarding?",
+      "answers": [
+        {
+          "text": [
+            "Tony Hawk"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which metal band has a mascot named \"Eddie\"?",
+      "answers": [
+        {
+          "text": [
+            "Iron Maiden"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Whose motto is 'We are a legion. We don't forgive. We don't forget'?",
+      "answers": [
+        {
+          "text": [
+            "Anonymous"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Whose painting is used on Woody Allen's 'Midnight in Paris' movie poster?",
+      "answers": [
+        {
+          "text": [
+            "Van Gogh",
+            "Vincent van Gogh"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Whose quote is \"fly like a butterfly sting like a bee\"?",
+      "answers": [
+        {
+          "text": [
+            "Muhammad Ali"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who's the writer of 'Game of Thrones'?",
+      "answers": [
+        {
+          "text": [
+            "George R.R. Martin",
+            "George R R  Martin",
+            "GRRM"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Whose album is ARTPOP?",
+      "answers": [
+        {
+          "text": [
+            "Lady Gaga"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who's the singer and leader of Radiohead?",
+      "answers": [
+        {
+          "text": [
+            "Thom Yorke"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who's the soccer player that has scored the most goals in the World Cups?",
+      "answers": [
+        {
+          "text": [
+            "Klose"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who's the swimmer that has won 71 medals?",
+      "answers": [
+        {
+          "text": [
+            "Michael Phelps"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who's the only person on The Simpsons that has 5 fingers?",
+      "answers": [
+        {
+          "text": [
+            "God"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who's the father of modern electromagnetism?",
+      "answers": [
+        {
+          "text": [
+            "Maxwell"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who's the main character in Grey's Anatomy?",
+      "answers": [
+        {
+          "text": [
+            "Meredith"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Whos is Peeta Mellark in love with?",
+      "answers": [
+        {
+          "text": [
+            "Katniss Everdeen",
+            "Katniss"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Whom is the famous phrase \"I am your father\" referred to?",
+      "answers": [
+        {
+          "text": [
+            "Luke Skywalker"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who worked with Jackie Chan in Rush Hour 2?",
+      "answers": [
+        {
+          "text": [
+            "Chris Tucker"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who won the FIFA World Cup of South Africa 2010?",
+      "answers": [
+        {
+          "text": [
+            "Spain"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who won the FIFA World Cup in 2002?",
+      "answers": [
+        {
+          "text": [
+            "Brazil"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who won the 2012 Champions League?",
+      "answers": [
+        {
+          "text": [
+            "Chelsea"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who were the first users of papyrus?",
+      "answers": [
+        {
+          "text": [
+            "Egyptians",
+            "Egyptian",
+            "Egypt"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who was the philosopher who said 'I only know that I know nothing'?",
+      "answers": [
+        {
+          "text": [
+            "Socrates"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who was the only actor to win an Oscar afterhis death?",
+      "answers": [
+        {
+          "text": [
+            "Heath Ledger"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who was the number 23 for the Chicago Bulls?",
+      "answers": [
+        {
+          "text": [
+            "Michael Jordan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who was the main actor in the movie Click?",
+      "answers": [
+        {
+          "text": [
+            "Adam Sandler"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who was Sam's girlfriend in the movie Transformers 1 and 2?",
+      "answers": [
+        {
+          "text": [
+            "Megan Fox"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who was JD's best friend in the TV series 'Scrubs'?",
+      "answers": [
+        {
+          "text": [
+            "Turk"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who was Brad Pitt's partner in the 1995 film 'Se7en'?",
+      "answers": [
+        {
+          "text": [
+            "Morgan Freeman"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who was Brad Pitt's first wife?",
+      "answers": [
+        {
+          "text": [
+            "Jennifer Aniston"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who voiced Woody in the \"Toy Story\" trilogy?",
+      "answers": [
+        {
+          "text": [
+            "Tom Hanks"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who sings the song \"Love Story\"?",
+      "answers": [
+        {
+          "text": [
+            "Taylor Swift"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who stars in the movie \"I am legend\"?",
+      "answers": [
+        {
+          "text": [
+            "Will Smith"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who says the famous salute \"Live Long and Prosper\"?",
+      "answers": [
+        {
+          "text": [
+            "Spock"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who said \"Time is a flat circle\"?",
+      "answers": [
+        {
+          "text": [
+            "Nietzsche"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who said that \"objects which have no resultant force are either stationary or moving at constant velocity\"?",
+      "answers": [
+        {
+          "text": [
+            "Isaac Newton",
+            "Newton"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who released the album 'AM'?",
+      "answers": [
+        {
+          "text": [
+            "Arctic Monkeys"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who plays the crazy person in the movie '12 Monkeys'?",
+      "answers": [
+        {
+          "text": [
+            "Brad Pitt"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who is Thor's Father?",
+      "answers": [
+        {
+          "text": [
+            "Odin"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who is the god of gods in Greek mythology?",
+      "answers": [
+        {
+          "text": [
+            "Zeus"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who is the creator of characters like Spider Man and The Fantastic Four?",
+      "answers": [
+        {
+          "text": [
+            "Stan Lee"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who is the creator of \"Family Guy\"?",
+      "answers": [
+        {
+          "text": [
+            "Seth MacFarlane"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who is the \"black sheep\" in Family Guy?",
+      "answers": [
+        {
+          "text": [
+            "Meg"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who is Superman' sweetheart?",
+      "answers": [
+        {
+          "text": [
+            "Lois Lane"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who is SpongeBob SquarePants' best friend?",
+      "answers": [
+        {
+          "text": [
+            "Patrick"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who is Spider-Man?",
+      "answers": [
+        {
+          "text": [
+            "Peter Parker"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who is Mario's brother?",
+      "answers": [
+        {
+          "text": [
+            "Luigi"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who is Bart Simpson's best friend?",
+      "answers": [
+        {
+          "text": [
+            "Milhouse"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who is Bruce Wayne?",
+      "answers": [
+        {
+          "text": [
+            "Batman"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who is Ned Stark's youngest daughter in the TV series 'Game of Thrones'?",
+      "answers": [
+        {
+          "text": [
+            "Arya Stark",
+            "Arya"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who invented the telephone?",
+      "answers": [
+        {
+          "text": [
+            "Bell"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who invented the world's first successful airplane?",
+      "answers": [
+        {
+          "text": [
+            "Wright brothers"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who is the main character in \"The Lion King\"?",
+      "answers": [
+        {
+          "text": [
+            "Simba"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who created Mickey Mouse?",
+      "answers": [
+        {
+          "text": [
+            "Walt Disney"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who composed the music for the film 'Tron: Legacy'?",
+      "answers": [
+        {
+          "text": [
+            "Daft Punk"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "\"Bharathanatiyam\" is the national dance of what country?",
+      "answers": [
+        {
+          "text": [
+            "India"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "\"Mr. Pink\" is the alias of a character in which Quentin Tarantion film?",
+      "answers": [
+        {
+          "text": [
+            "Reservoir Dogs"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "\"Taipei\" is the capital city of which country?",
+      "answers": [
+        {
+          "text": [
+            "Taiwan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Adam Levine is the lead singer of which group?",
+      "answers": [
+        {
+          "text": [
+            "Maroon 5"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "At what age did Mozart write his first opera?",
+      "answers": [
+        {
+          "text": [
+            "Twelve",
+            "12"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Bananas are rich in what?",
+      "answers": [
+        {
+          "text": [
+            "Potassium"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Complete the title of the Oscar-nominated film starring Tom Cruise, 'The Last ...'?",
+      "answers": [
+        {
+          "text": [
+            "Samurai"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Diamonds are an allotropic form of what element?",
+      "answers": [
+        {
+          "text": [
+            "Carbon"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Due to which element does acid become acidic?",
+      "answers": [
+        {
+          "text": [
+            "Hydrogen"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Edmonton is the capital of which province in Canada?",
+      "answers": [
+        {
+          "text": [
+            "Alberta"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Every how many years are the Winter Olympic Games celebrated?",
+      "answers": [
+        {
+          "text": [
+            "Four",
+            "4"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Fe is the symbol for?",
+      "answers": [
+        {
+          "text": [
+            "Iron"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Fraser Island belongs to what country?",
+      "answers": [
+        {
+          "text": [
+            "Australia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Freddie Mercury was the singer of what band?",
+      "answers": [
+        {
+          "text": [
+            "Queen"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "French Fries originate from which country?",
+      "answers": [
+        {
+          "text": [
+            "Belgium"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Heliophobia is the fear of?",
+      "answers": [
+        {
+          "text": [
+            "Sunlight",
+            "The Sun",
+            "Sun"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "\"15, 30, 40, game\" is used for the scoring system of what sport?",
+      "answers": [
+        {
+          "text": [
+            "Tennis"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How is the speed of boats measured?",
+      "answers": [
+        {
+          "text": [
+            "Knots"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many bytes are there in 1 kilobyte?",
+      "answers": [
+        {
+          "text": [
+            "1024"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many cards are there in a deck?",
+      "answers": [
+        {
+          "text": [
+            "52"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many chambers are there in the human heart?",
+      "answers": [
+        {
+          "text": [
+            "Four",
+            "4"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many fingers does a simpsons character have?",
+      "answers": [
+        {
+          "text": [
+            "Four",
+            "4"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many hearts does an octupus have?",
+      "answers": [
+        {
+          "text": [
+            "Three",
+            "3"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many hours are there in a year?",
+      "answers": [
+        {
+          "text": [
+            "8760"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many players are there in a cricket game?",
+      "answers": [
+        {
+          "text": [
+            "Eleven",
+            "11"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many players are there in a Quidditch team?",
+      "answers": [
+        {
+          "text": [
+            "Seven",
+            "7"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How much is 2 raised to tenth power?",
+      "answers": [
+        {
+          "text": [
+            "1024"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How was Walter White known by the drug cartels in Breaking Bad?",
+      "answers": [
+        {
+          "text": [
+            "Heisenberg"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "If you multiply the base by the height, and then divide by 2, you're calculating the area of what geometric figure?",
+      "answers": [
+        {
+          "text": [
+            "Triangle"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "If you want to go Stockholm, what country are you in?",
+      "answers": [
+        {
+          "text": [
+            "Sweden"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In 'The Simpsons', what sort of animal is Itchy?",
+      "answers": [
+        {
+          "text": [
+            "Mouse"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In an e-mail, what does CC mean?",
+      "answers": [
+        {
+          "text": [
+            "Carbon Copy"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In Breaking Bad, what colour are Marie's appliances?",
+      "answers": [
+        {
+          "text": [
+            "Purple"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In chess, how many differents directions can the queen move if she is in one corner of the board?",
+      "answers": [
+        {
+          "text": [
+            "Three",
+            "3"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In computer science, what does the acronym LAN stand for?",
+      "answers": [
+        {
+          "text": [
+            "Local Area Network"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In Computer terms, what does CPU stand for?",
+      "answers": [
+        {
+          "text": [
+            "Central Processing Unit"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In Disney's Tangled, what was the name of Repunzel's animal side kick?",
+      "answers": [
+        {
+          "text": [
+            "Pascal"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In Divergent, what is the real name of the character named \"Four\"?",
+      "answers": [
+        {
+          "text": [
+            "Tobias"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In Doctor Who, how many hearts does the doctor have?",
+      "answers": [
+        {
+          "text": [
+            "Two",
+            "2"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In Doctor Who, what is the name of the Doctor's tin dog?",
+      "answers": [
+        {
+          "text": [
+            "K9"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In Greek mythology which monster is half goat, lion and snake?",
+      "answers": [
+        {
+          "text": [
+            "Chimera"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In Greek mythology, who was the god of the Underworld?",
+      "answers": [
+        {
+          "text": [
+            "Hades"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In tennis, what's the name of the point won directly with a serve?",
+      "answers": [
+        {
+          "text": [
+            "Ace"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many rings on the Olympic flag",
+      "answers": [
+        {
+          "text": [
+            "Five",
+            "5"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What colour is Spock's blood",
+      "answers": [
+        {
+          "text": [
+            "Green"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Whose nose grew when he told a lie",
+      "answers": [
+        {
+          "text": [
+            "Pinocchio"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "If you had pogonophobia what would you be afraid of",
+      "answers": [
+        {
+          "text": [
+            "Beards"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which country grows the most fruit",
+      "answers": [
+        {
+          "text": [
+            "China"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which company is owned by Bill Gates",
+      "answers": [
+        {
+          "text": [
+            "Microsoft"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Triskadeccaphobia is the fear of what",
+      "answers": [
+        {
+          "text": [
+            "The Number 13",
+            "13",
+            "Thirteen",
+            "Number 13"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Ictheologists study what",
+      "answers": [
+        {
+          "text": [
+            "Fish"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who or what lives in a formicarium",
+      "answers": [
+        {
+          "text": [
+            "Ants"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which part of the human body contains the most gold",
+      "answers": [
+        {
+          "text": [
+            "Toenails",
+            "toenail"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "La Giaconda is better known as what",
+      "answers": [
+        {
+          "text": [
+            "Mona Lisa"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the largest state in the USA",
+      "answers": [
+        {
+          "text": [
+            "Alaska"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Clyde Tonbaugh discovered what planet in 1930",
+      "answers": [
+        {
+          "text": [
+            "Pluto"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In Japan what is Seppuku Hari Kari",
+      "answers": [
+        {
+          "text": [
+            "suicide"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What martial arts name means gentle way",
+      "answers": [
+        {
+          "text": [
+            "Judo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In which country would you find the Negev desert",
+      "answers": [
+        {
+          "text": [
+            "Israel"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which character has been played by the most actors",
+      "answers": [
+        {
+          "text": [
+            "Sherlock Holmes"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What element did Marie and Pierre Curie discover",
+      "answers": [
+        {
+          "text": [
+            "Polonium & Radium",
+            "Polonium",
+            "Radium"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What are Sarte, Neitzsche, Russell and Decartes",
+      "answers": [
+        {
+          "text": [
+            "Philosophers",
+            "Philosopher"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "arry Allen was the alter ego of which DC comic superhero",
+      "answers": [
+        {
+          "text": [
+            "The Flash",
+            "Flash"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Linus Torwalds invented and wrote what",
+      "answers": [
+        {
+          "text": [
+            "Linux kernel",
+            "Linux"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the staple food of one third of the worlds population",
+      "answers": [
+        {
+          "text": [
+            "Rice"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Jagger, Richards, Wyman, Jones, Watts, Stewart - which band",
+      "answers": [
+        {
+          "text": [
+            "The Rolling Stones",
+            "Rolling Stones"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What digit does not exist in Roman Numerals",
+      "answers": [
+        {
+          "text": [
+            "Zero",
+            "0"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In Texas Hold'em, how many cards are dealt in 'The Flop'?",
+      "answers": [
+        {
+          "text": [
+            "Three",
+            "3"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In the British sci-fi show \"Doctor Who\", what's the name of the spaceship that can travel through space and time?",
+      "answers": [
+        {
+          "text": [
+            "TARDIS"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In the first Harry Potter film, what was the name of Neville Longbottom's pet toad?",
+      "answers": [
+        {
+          "text": [
+            "Trevor"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In The Simpsons, how many children does Apu have?",
+      "answers": [
+        {
+          "text": [
+            "Eight",
+            "8"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In the TV show \"The Big Bang Theory\", What is Sheldon's catch phrase?",
+      "answers": [
+        {
+          "text": [
+            "Bazinga"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In what country was Osama bin Laden found in 2011?",
+      "answers": [
+        {
+          "text": [
+            "Pakistan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In what Disney movie could you listen to the song 'A Whole New World'?",
+      "answers": [
+        {
+          "text": [
+            "Aladdin"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In what field sport the winner is the player who has the lowest score?",
+      "answers": [
+        {
+          "text": [
+            "Golf"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In what movie does Arnold Schwarzenegger go to Mars?",
+      "answers": [
+        {
+          "text": [
+            "Total Recall"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In what state is Area 51 located?",
+      "answers": [
+        {
+          "text": [
+            "Nevada"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In what TV series did Steve Urkel appear?",
+      "answers": [
+        {
+          "text": [
+            "Family Matters"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In which direction does the sun set?",
+      "answers": [
+        {
+          "text": [
+            "West"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In which European city can you visit the Louvre Museum?",
+      "answers": [
+        {
+          "text": [
+            "Paris"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "On \"Sponge Bob Square Pants\", what kind of animal is Sandy?",
+      "answers": [
+        {
+          "text": [
+            "Squirrel"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "On the show \"Spongebob Squarepants\" Spongebob lives is which type of fruit?",
+      "answers": [
+        {
+          "text": [
+            "Pineapple"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "To which organ of the body does the adjective adrenal relate?",
+      "answers": [
+        {
+          "text": [
+            "Kidney"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is 26 in Roman numerals?",
+      "answers": [
+        {
+          "text": [
+            "XXVI"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What chemical element gives red wine its color?",
+      "answers": [
+        {
+          "text": [
+            "Iron"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What chess piece has the most freedom of movement?",
+      "answers": [
+        {
+          "text": [
+            "Queen"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What city does Batman protect?",
+      "answers": [
+        {
+          "text": [
+            "Gotham"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What color are Peter Pan's clothes?",
+      "answers": [
+        {
+          "text": [
+            "Green"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What color is a smurf?",
+      "answers": [
+        {
+          "text": [
+            "Blue"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What company makes the Radeon video cards?",
+      "answers": [
+        {
+          "text": [
+            "AMD",
+            "ATI"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What do the Olympic rings represent?",
+      "answers": [
+        {
+          "text": [
+            "continents"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What does BBC stand for?",
+      "answers": [
+        {
+          "text": [
+            "British Broadcasting Company"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What does E stand for in the formula E=mc2?",
+      "answers": [
+        {
+          "text": [
+            "Energy"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What day of the week does does Garfield hate?",
+      "answers": [
+        {
+          "text": [
+            "Monday"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What does RAM stand for?",
+      "answers": [
+        {
+          "text": [
+            "Random Access Memory"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What does the Q in Q-tip stand for?",
+      "answers": [
+        {
+          "text": [
+            "Quality"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What element has an atomic number of 69?",
+      "answers": [
+        {
+          "text": [
+            "Thulium"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What famous author was known for \"The Iliad\" and \"The Odyssey\"?",
+      "answers": [
+        {
+          "text": [
+            "Homer"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What hand is more valuable in poker?",
+      "answers": [
+        {
+          "text": [
+            "Royal flush"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What happens when a star explodes?",
+      "answers": [
+        {
+          "text": [
+            "Supernova"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is a perfect game scoring in bowling?",
+      "answers": [
+        {
+          "text": [
+            "300"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is Sherlock Holmes's brother called?",
+      "answers": [
+        {
+          "text": [
+            "Mycroft"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the chemical symbol for gold?",
+      "answers": [
+        {
+          "text": [
+            "Au"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the French word for Thank You?",
+      "answers": [
+        {
+          "text": [
+            "Merci"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the integral of cos(x)?",
+      "answers": [
+        {
+          "text": [
+            "-sin(x)"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the largest planet in the solar system?",
+      "answers": [
+        {
+          "text": [
+            "Jupiter"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the last name of the family in the TV series 'Family Guy'?",
+      "answers": [
+        {
+          "text": [
+            "Griffin"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name given to a word or phrase that reads the same backward and forward?",
+      "answers": [
+        {
+          "text": [
+            "Palindrome"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of Iron Man's computer assistant?",
+      "answers": [
+        {
+          "text": [
+            "Jarvis"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of Mickey Mouse's dog?",
+      "answers": [
+        {
+          "text": [
+            "Pluto"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of our galaxy?",
+      "answers": [
+        {
+          "text": [
+            "Milky Way"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of restaurant where SpongeBob works?",
+      "answers": [
+        {
+          "text": [
+            "The Krusty Krab",
+            "Krusty Krab"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of Ron's sister in \"Harry Potter\"?",
+      "answers": [
+        {
+          "text": [
+            "Ginny"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the actor who portrayed Jesse Pinkman on the TV series Breaking Bad?",
+      "answers": [
+        {
+          "text": [
+            "Aaron Paul"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the battle where Napoleon was finally defeated?",
+      "answers": [
+        {
+          "text": [
+            "Waterloo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the cat in Stuart Little?",
+      "answers": [
+        {
+          "text": [
+            "Snowy"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the cat that goes after Jerry?",
+      "answers": [
+        {
+          "text": [
+            "Tom"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the component used to store energy in an electric field?",
+      "answers": [
+        {
+          "text": [
+            "Capacitor"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the dog on Family Guy?",
+      "answers": [
+        {
+          "text": [
+            "Brian"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the dwarf in Game of Thrones?",
+      "answers": [
+        {
+          "text": [
+            "Tyrion"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the dynasty in China in 15th century?",
+      "answers": [
+        {
+          "text": [
+            "Ming"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the giant bunny in \"Donnie Darko\"?",
+      "answers": [
+        {
+          "text": [
+            "Frank"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the Greek goddess of wisdom?",
+      "answers": [
+        {
+          "text": [
+            "Athena"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the lawyer in Breaking Bad?",
+      "answers": [
+        {
+          "text": [
+            "Saul"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the main character in 'The Legend of Zelda'?",
+      "answers": [
+        {
+          "text": [
+            "Link"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the Olympian goddess of love and beauty?",
+      "answers": [
+        {
+          "text": [
+            "Aphrodite"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the water Greek God?",
+      "answers": [
+        {
+          "text": [
+            "Poseidon"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the number of the platform to take the Hogwarts Express?",
+      "answers": [
+        {
+          "text": [
+            "9 3/4"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the official language in Iran?",
+      "answers": [
+        {
+          "text": [
+            "Farsi"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the opposite colour of red?",
+      "answers": [
+        {
+          "text": [
+            "Green"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the planet in the solar system whose size is closest to that of the Earth?",
+      "answers": [
+        {
+          "text": [
+            "Venus"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the sum of the numbers 1 to 10?",
+      "answers": [
+        {
+          "text": [
+            "55"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What kind of tree gives acorns?",
+      "answers": [
+        {
+          "text": [
+            "Oak"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What organ processes the sodium in the body?",
+      "answers": [
+        {
+          "text": [
+            "Kidney"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What philosopher said the famous sentence 'I think, therefore I am'?",
+      "answers": [
+        {
+          "text": [
+            "Descartes"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What planet is the closest to the Sun?",
+      "answers": [
+        {
+          "text": [
+            "Mercury"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What planet was named after the God of War?",
+      "answers": [
+        {
+          "text": [
+            "Mars"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What Power Ranger was the leader (color)?",
+      "answers": [
+        {
+          "text": [
+            "Red"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What protocol is used by a router to assign dynamic IP addresses?",
+      "answers": [
+        {
+          "text": [
+            "DHCP"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What the binary number 1010 in decimal?",
+      "answers": [
+        {
+          "text": [
+            "10"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What scientist is famous for his three laws of physics?",
+      "answers": [
+        {
+          "text": [
+            "Newton"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What species was Chewbacca?",
+      "answers": [
+        {
+          "text": [
+            "Wookie"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What sport do you play if you are part of the NHL?",
+      "answers": [
+        {
+          "text": [
+            "Hockey"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What substance is injected to people with diabetes to reduce their hyperglycemia?",
+      "answers": [
+        {
+          "text": [
+            "Insulin"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What superhero was portrayed by Christian Bale?",
+      "answers": [
+        {
+          "text": [
+            "Batman"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What team of the NBA made Michael Jordan famous?",
+      "answers": [
+        {
+          "text": [
+            "Chicago Bulls"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What was Eminem's first album called?",
+      "answers": [
+        {
+          "text": [
+            "Infinite"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What was Muhammed Ali's real name?",
+      "answers": [
+        {
+          "text": [
+            "Cassius Clay"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What was Spock's race?",
+      "answers": [
+        {
+          "text": [
+            "Vulcan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What was the first movie produced by Pixar?",
+      "answers": [
+        {
+          "text": [
+            "Toy Story"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What was the name of the ceremony where a Samurai would kill himself?",
+      "answers": [
+        {
+          "text": [
+            "Seppuku"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the abreviation of 'picture element'?",
+      "answers": [
+        {
+          "text": [
+            "Pixel"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the adjective used for the planes flying faster than the speed of sound?",
+      "answers": [
+        {
+          "text": [
+            "Supersonic"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the band that has won the most Grammy awards?",
+      "answers": [
+        {
+          "text": [
+            "U2"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the biggest mammal?",
+      "answers": [
+        {
+          "text": [
+            "Whale"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the chemical symbol of salt?",
+      "answers": [
+        {
+          "text": [
+            "NaCl"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the name of Snoopy's owner?",
+      "answers": [
+        {
+          "text": [
+            "Charlie Brown"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the name of Sponge Bob's best friend?",
+      "answers": [
+        {
+          "text": [
+            "Patrick"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the name of the bar tender in The Simpsons?",
+      "answers": [
+        {
+          "text": [
+            "Moe"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the name of the cup of the National Hockey League?",
+      "answers": [
+        {
+          "text": [
+            "Stanley Cup",
+            "Stanley"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the name of the dance step popularized by Michael Jackson?",
+      "answers": [
+        {
+          "text": [
+            "Moonwalk"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the name of the instrument used to measure atmospheric pressure?",
+      "answers": [
+        {
+          "text": [
+            "Barometer"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the name of the lead singer of the band Radiohead?",
+      "answers": [
+        {
+          "text": [
+            "Thom Yorke"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the name of the princess from Beauty",
+      "answers": [
+        {
+          "text": [
+            "Belle"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the name of the protagonist in the TV series \"Breaking Bad\"?",
+      "answers": [
+        {
+          "text": [
+            "Walter White"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the name of the traditional Japanese art of paper folding?",
+      "answers": [
+        {
+          "text": [
+            "Origami"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What are Ethan Kath and Alice Glass better known as?",
+      "answers": [
+        {
+          "text": [
+            "Crystal Castles"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the square root of 144?",
+      "answers": [
+        {
+          "text": [
+            "12"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which is Canada's largest province?",
+      "answers": [
+        {
+          "text": [
+            "Quebec"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which is the only bird that can fly backwards?",
+      "answers": [
+        {
+          "text": [
+            "Hummingbird"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which is the only mammal in the world unable to burp?",
+      "answers": [
+        {
+          "text": [
+            "Horse"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which of the original Spice Girls was the only one with a 'spice' nickname?",
+      "answers": [
+        {
+          "text": [
+            "Geri Halliwell",
+            "Geri",
+            "Ginger"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which organ is responsible of producing insulin?",
+      "answers": [
+        {
+          "text": [
+            "Pancreas"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which real city is taken by Gotham city in Batman movies?",
+      "answers": [
+        {
+          "text": [
+            "Chicago"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which rock group is famous for the song \"Stairway to Heaven\"?",
+      "answers": [
+        {
+          "text": [
+            "Led Zeppelin"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which sea is known by its high levels of salt?",
+      "answers": [
+        {
+          "text": [
+            "Dead Sea"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which sports brand uses as its slogan the phrase \"Just do it\"?",
+      "answers": [
+        {
+          "text": [
+            "Nike"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which state is known as the potato state?",
+      "answers": [
+        {
+          "text": [
+            "Idaho"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What did the Scarecrow want from the Wizard of Oz?",
+      "answers": [
+        {
+          "text": [
+            "A brain",
+            "brain"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is Keanu Reeves character's Real name in \"The Matrix\" (1999)?",
+      "answers": [
+        {
+          "text": [
+            "Thomas Anderson",
+            "Tom Anderson"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of Han Solo's ship in \"Star Wars\"?",
+      "answers": [
+        {
+          "text": [
+            "The Millennium Falcon",
+            "millennium falcon",
+            "millenium falcon"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What kind of car was used as a time machine in the \"Back To The Future\" movies?",
+      "answers": [
+        {
+          "text": [
+            "A DeLorean",
+            "delorean"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the sequel to \"101 Dalmations\"",
+      "answers": [
+        {
+          "text": [
+            "102 Dalmations"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What was Indiana Jones's real first name?",
+      "answers": [
+        {
+          "text": [
+            "Henry"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who is famous for saying 'I'll be back'?",
+      "answers": [
+        {
+          "text": [
+            "Arnold Schwarzenegger",
+            "Arnold"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who is famous for saying 'Make my day'?",
+      "answers": [
+        {
+          "text": [
+            "Clint Eastwood",
+            "eastwood"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In what movie did we first hear 'May the force be with you'?",
+      "answers": [
+        {
+          "text": [
+            "Star Wars"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many tentacles does an octopus have?",
+      "answers": [
+        {
+          "text": [
+            "Eight",
+            "8"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many legs does a spider have?",
+      "answers": [
+        {
+          "text": [
+            "Eight",
+            "8"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Where was the game of golf invented?",
+      "answers": [
+        {
+          "text": [
+            "Scotland"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What U.S. city is also called 'The Windy City'?",
+      "answers": [
+        {
+          "text": [
+            "Chicago"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the bad guy in Peter Pan?",
+      "answers": [
+        {
+          "text": [
+            "Captain Hook",
+            "Hook"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the river named most often in the Bible?",
+      "answers": [
+        {
+          "text": [
+            "Jordan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the Scottish word for lake?",
+      "answers": [
+        {
+          "text": [
+            "Loch"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which planet is closest to the sun?",
+      "answers": [
+        {
+          "text": [
+            "Mercury"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many moons does Mars have?",
+      "answers": [
+        {
+          "text": [
+            "Two",
+            "2"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Where were the 2000 Olympics held?",
+      "answers": [
+        {
+          "text": [
+            "Sydney",
+            "Australia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What did Sir Galahad search for",
+      "answers": [
+        {
+          "text": [
+            "The Holy Grail?",
+            "holy grail"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the Spanish name for the South American capital which means 'good air'?",
+      "answers": [
+        {
+          "text": [
+            "Buenos Aires"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Hungary?",
+      "answers": [
+        {
+          "text": [
+            "Budapest"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What name is Paul Hewson better know as?",
+      "answers": [
+        {
+          "text": [
+            "Bono"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many members in the guy group N'SYNC?",
+      "answers": [
+        {
+          "text": [
+            "Five",
+            "5"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Name a member of N'SYNC whose name does NOT start with the letter \"J\".",
+      "answers": [
+        {
+          "text": [
+            "Chris or Lance",
+            "Chris",
+            "Lance"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What year was the movie Ben Hur with Charlton Heston made",
+      "answers": [
+        {
+          "text": [
+            "1959"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is a Wyvern",
+      "answers": [
+        {
+          "text": [
+            "A Type of dragon",
+            "Type of dragon",
+            "dragon"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What year were PopTarts invented?",
+      "answers": [
+        {
+          "text": [
+            "1964"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What African country is only 8 miles from Spain?",
+      "answers": [
+        {
+          "text": [
+            "Morocco"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which people created the sundial?",
+      "answers": [
+        {
+          "text": [
+            "The Egyptians",
+            "Egyptians"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who did Paris, the ruler of Troy, select as the most beautiful goddess?",
+      "answers": [
+        {
+          "text": [
+            "Aphrodite"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What are Pyxis, Puppis, and Pavo?",
+      "answers": [
+        {
+          "text": [
+            "constellations"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many deserts are in or extend into the United States?",
+      "answers": [
+        {
+          "text": [
+            "Five",
+            "5"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Name the 500,000 square mile desert that Mongolia and China share.",
+      "answers": [
+        {
+          "text": [
+            "Gobi"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the type of computer virus that is named after a device of trickery used in a famous mythological war?",
+      "answers": [
+        {
+          "text": [
+            "Trojan Horse",
+            "trojan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "When was the World Wide Web developed?",
+      "answers": [
+        {
+          "text": [
+            "1990"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In what Swiss city was the World Wide Web first developed?",
+      "answers": [
+        {
+          "text": [
+            "Geneva"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What color are the Majestic mountains in \"America the Beautiful\"?",
+      "answers": [
+        {
+          "text": [
+            "Purple"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who made his debut in Action Comics No.1?",
+      "answers": [
+        {
+          "text": [
+            "Superman"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What color is the center stripe on the American flag?",
+      "answers": [
+        {
+          "text": [
+            "Red"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many of the seven dwarf's names do not end with \"y\"?",
+      "answers": [
+        {
+          "text": [
+            "Two",
+            "2"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many planets are between Earth and the sun?",
+      "answers": [
+        {
+          "text": [
+            "Two",
+            "2"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country covers an entire continent?",
+      "answers": [
+        {
+          "text": [
+            "Australia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who was the first woman to win a Nobel Prize?",
+      "answers": [
+        {
+          "text": [
+            "Marie Curie",
+            "Curie"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who wrote LES MISERABLES?",
+      "answers": [
+        {
+          "text": [
+            "Victor Hugo",
+            "Hugo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who wrote the novel NINETEEN EIGHTY-FOUR?",
+      "answers": [
+        {
+          "text": [
+            "George Orwell",
+            "Orwell"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many stars are there on the Austrailian flag?",
+      "answers": [
+        {
+          "text": [
+            "Six",
+            "6"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In the sequence 2, 3, 5, 7, 11, 13, what number comes next?",
+      "answers": [
+        {
+          "text": [
+            "Seventeen",
+            "17"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Nova Scotia, Canada?",
+      "answers": [
+        {
+          "text": [
+            "Halifax"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which country uses a Yen for money?",
+      "answers": [
+        {
+          "text": [
+            "Japan"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What country is the Aswan High Dam in?",
+      "answers": [
+        {
+          "text": [
+            "Egypt"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What did they use for croquet mallets in \"Alice in Wonderland\"?",
+      "answers": [
+        {
+          "text": [
+            "Flamingoes",
+            "flamingos"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What two gases are used in a welding torch?",
+      "answers": [
+        {
+          "text": [
+            "Oxygen and Acetylene",
+            "oxygen",
+            "acetylene"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the closest star to the Earth?",
+      "answers": [
+        {
+          "text": [
+            "The sun",
+            "sun"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What does a sphygmomanometer measure?",
+      "answers": [
+        {
+          "text": [
+            "Blood pressure"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "When measuring acidity and alkalinity, what does \"pH\" stand for?",
+      "answers": [
+        {
+          "text": [
+            "per hydroxide"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which poison smells like almonds?",
+      "answers": [
+        {
+          "text": [
+            "Cyanide"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What was Sherlock Holmes' brother's name?",
+      "answers": [
+        {
+          "text": [
+            "Mycroft Holmes",
+            "Mycroft"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Zeus created warriors called Myrmidons out of what creatures?",
+      "answers": [
+        {
+          "text": [
+            "Ants",
+            "Ant"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Vulcan blood is based on what metal?",
+      "answers": [
+        {
+          "text": [
+            "Copper"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name given to the change in pitch accompanied by an approaching or receeding sound source?",
+      "answers": [
+        {
+          "text": [
+            "Doppler Effect",
+            "Doppler"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which Roman god had two faces?",
+      "answers": [
+        {
+          "text": [
+            "Janus"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What was Dr. Who's phone booth called?",
+      "answers": [
+        {
+          "text": [
+            "Tardis"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Name Captain Nemo's submarine?",
+      "answers": [
+        {
+          "text": [
+            "Nautilus"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In what ancient city did Alexander the Great die?",
+      "answers": [
+        {
+          "text": [
+            "Babylon"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What does HDD stand for?",
+      "answers": [
+        {
+          "text": [
+            "Hard Disk Drive"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What does USB stand for?",
+      "answers": [
+        {
+          "text": [
+            "Universal Serial Bus"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What does WWW stand for?",
+      "answers": [
+        {
+          "text": [
+            "World Wide Web"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What does URL stand for?",
+      "answers": [
+        {
+          "text": [
+            "Uniform Resource Locator"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What was the name of the first wide-scale peer-to-peer music sharing application?",
+      "answers": [
+        {
+          "text": [
+            "Napster"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What company first invented the modern mouse?",
+      "answers": [
+        {
+          "text": [
+            "Xerox"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many bits are in a byte?",
+      "answers": [
+        {
+          "text": [
+            "eight",
+            "8"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Solve for X: 5x+4=24",
+      "answers": [
+        {
+          "text": [
+            "Four",
+            "4"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many sides does a 'icosohedron' have?",
+      "answers": [
+        {
+          "text": [
+            "Twenty",
+            "20"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What color reflects light from all parts of the visible spectrum?",
+      "answers": [
+        {
+          "text": [
+            "white"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many states begin with the letter \"A\"?",
+      "answers": [
+        {
+          "text": [
+            "Four",
+            "4"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many times did Dorothy click her heels together?",
+      "answers": [
+        {
+          "text": [
+            "Tree",
+            "3"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What color is Lisa's necklace on The Simpsons?",
+      "answers": [
+        {
+          "text": [
+            "white"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What color is a giraffe's tongue?",
+      "answers": [
+        {
+          "text": [
+            "black"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Curious George's friend was The Man in the what color hat?",
+      "answers": [
+        {
+          "text": [
+            "yellow"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What color blood does Mr. Spock have?",
+      "answers": [
+        {
+          "text": [
+            "green"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What nationality was Aladdin?",
+      "answers": [
+        {
+          "text": [
+            "Chinese"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the capital of the Netherlands?",
+      "answers": [
+        {
+          "text": [
+            "Amsterdam"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What Dr. Seuss character steals Christmas?",
+      "answers": [
+        {
+          "text": [
+            "The Grinch",
+            "grinch"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the primary color with the shortest name?",
+      "answers": [
+        {
+          "text": [
+            "Red"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name for a male witch?",
+      "answers": [
+        {
+          "text": [
+            "Warlock"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What type of monster dies from a silver bullet?",
+      "answers": [
+        {
+          "text": [
+            "Werewolf"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of Harry Potter's owl?",
+      "answers": [
+        {
+          "text": [
+            "Hedwig"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Loch Ness is located in what country?",
+      "answers": [
+        {
+          "text": [
+            "Scotland"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many stones did David carry into battle with Goliath?",
+      "answers": [
+        {
+          "text": [
+            "Five",
+            "5"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "\"I soiled my armor I was so scared!\" is from which movie?",
+      "answers": [
+        {
+          "text": [
+            "Monty Python and the Holy Grail",
+            "Holy Grail",
+            "Monty Python"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "\"I've been dead once, already. It's very liberating.\" is from which movie?",
+      "answers": [
+        {
+          "text": [
+            "Batman"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the only country to have played in every World Cup soccer tournament?",
+      "answers": [
+        {
+          "text": [
+            "Brazil"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the common term for the layout of a computer keyboard?",
+      "answers": [
+        {
+          "text": [
+            "QWERTY keyboard",
+            "qwerty"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What city attracted Van Gogh and Toulouse-Lautrec to its bohemian Montmartre district?",
+      "answers": [
+        {
+          "text": [
+            "Paris"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What unit of sound intensity commemorates an inventor's last name?",
+      "answers": [
+        {
+          "text": [
+            "Decibel"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In blackjack, a hand of Ace and Nine can count as Ten or what?",
+      "answers": [
+        {
+          "text": [
+            "Twenty",
+            "20"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the official language of Brazil?",
+      "answers": [
+        {
+          "text": [
+            "Portuguese"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What does the koala eat exclusively?",
+      "answers": [
+        {
+          "text": [
+            "Eucalyptus"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the most abundant element on earth?",
+      "answers": [
+        {
+          "text": [
+            "Oxygen"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "",
+      "answers": [
+        {
+          "text": []
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The Shatt-el-Arab (River of Arabia) is the confluence of which two other rivers? ",
+      "answers": [
+        {
+          "text": [
+            "TIGRIS and EUPHRATES",
+            "euphrates and tigris"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Name the two families in Romeo and Juliet? ",
+      "answers": [
+        {
+          "text": [
+            "MONTAGUE & CAPULET",
+            "montague and capulet",
+            "capulet and montague",
+            "capulet&montague"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which singer joined Mel Gibson in the movie Mad Max: Beyond The Thunderdome?",
+      "answers": [
+        {
+          "text": [
+            "TINA TURNER"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Vodka, Galliano and orange juice are used to make which classic cocktail?",
+      "answers": [
+        {
+          "text": [
+            "HARVEY WALLBANGER"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which American state is nearest to the former Soviet Union? ",
+      "answers": [
+        {
+          "text": [
+            "ALASKA"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In which year did Foinavon win the Grand National? ",
+      "answers": [
+        {
+          "text": [
+            "1967"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "At which battle of 1314 did Robert The Bruce defeat the English forces? ",
+      "answers": [
+        {
+          "text": [
+            "BANNOCKBURN"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Consecrated in 1962, where is the Cathedral Church of St Michael? ",
+      "answers": [
+        {
+          "text": [
+            "COVENTRY"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "On TV, who did the character Lurch work for? ",
+      "answers": [
+        {
+          "text": [
+            "ADDAMS FAMILY"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which children's classic book was written by Anna Sewell? ",
+      "answers": [
+        {
+          "text": [
+            "BLACK BEAUTY"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many tentacles does a squid have? ",
+      "answers": [
+        {
+          "text": [
+            "TEN"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which reggae singing star died 11th May 1981? ",
+      "answers": [
+        {
+          "text": [
+            "BOB MARLEY"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Characters Charlie Allnut and Rosie Sayer appeared in which classic 1951 movie? ",
+      "answers": [
+        {
+          "text": [
+            "THE AFRICAN QUEEN"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is converted into alcohol during brewing? ",
+      "answers": [
+        {
+          "text": [
+            "SUGAR"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which river forms the eastern section of the border between England and Scotland? ",
+      "answers": [
+        {
+          "text": [
+            "TWEED"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which Briton won an ice-skating Gold at the Lake Placid Olympics? ",
+      "answers": [
+        {
+          "text": [
+            "ROBIN COUSINS"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In what year was Prince Andrew born? ",
+      "answers": [
+        {
+          "text": [
+            "1960"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the national game of the Basques? ",
+      "answers": [
+        {
+          "text": [
+            "PELOTA"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "TV commercials for Campari launched the career of which actress? ",
+      "answers": [
+        {
+          "text": [
+            "LORRAINE CHASE"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "If cats are feline, what are sheep? ",
+      "answers": [
+        {
+          "text": [
+            "OVINE"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "A red giant star typically evolves when its central hydrogen has converted to what gas?",
+      "answers": [
+        {
+          "text": [
+            "Helium"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In the song, Heartbreak Hotel is on which street? ",
+      "answers": [
+        {
+          "text": [
+            "LONELY STREET"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What Greek mythological creature sprang from the blood of Medusa?",
+      "answers": [
+        {
+          "text": [
+            "Pegasus"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What type of animal is a macaque?",
+      "answers": [
+        {
+          "text": [
+            "Monkey"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "‘Blue Monday’, said to be the most depressing day of the year, falls during which month?",
+      "answers": [
+        {
+          "text": [
+            "January"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The majority of the Amazon Rainforest is contained within which country?",
+      "answers": [
+        {
+          "text": [
+            "Brazil"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many definite suicides occur in the plays of William Shakespeare?",
+      "answers": [
+        {
+          "text": [
+            "13",
+            "thirteen"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Bigarade sauce is traditionally made using which fruit?",
+      "answers": [
+        {
+          "text": [
+            "Oranges",
+            "orange"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Bras is French for which part of the body?",
+      "answers": [
+        {
+          "text": [
+            "Arm",
+            "arms"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In our solar system which is the 5th planet from the Sun?",
+      "answers": [
+        {
+          "text": [
+            "Jupiter"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which letter is furthest to the right on a top letter row on a computer keyboard?",
+      "answers": [
+        {
+          "text": [
+            "P"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Bikram, Anusara, Kundalini and Iyengar are all types of which activity?",
+      "answers": [
+        {
+          "text": [
+            "Yoga"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What replaced the iron in the board game Monopoly?",
+      "answers": [
+        {
+          "text": [
+            "Cat"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "People born on April 17th have which sign of the Zodiac?",
+      "answers": [
+        {
+          "text": [
+            "Aries"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Hinge, Saddle, Pivot and Gliding are all types of what in the human body?",
+      "answers": [
+        {
+          "text": [
+            "Joint",
+            "joints"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Gimpo International Airport is located in which Asian city?",
+      "answers": [
+        {
+          "text": [
+            "Seoul"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Siderodromophobia is the irrational fear of which mode of transport?",
+      "answers": [
+        {
+          "text": [
+            "Trains",
+            "train"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What was S Vietnam’s Ho Chi Minh City called before 1976?",
+      "answers": [
+        {
+          "text": [
+            "Saigon"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "A titi is what type of animal?",
+      "answers": [
+        {
+          "text": [
+            "Monkey"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "To what colour is the human eye most sensitive?",
+      "answers": [
+        {
+          "text": [
+            "Green"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Gabel is German for which item of cutlery?",
+      "answers": [
+        {
+          "text": [
+            "Fork"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In nature, Greco, Ostro, Libeccio and Sirocco are all types of what?",
+      "answers": [
+        {
+          "text": [
+            "Winds",
+            "wind"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What was disestablished as the state religion of Japan after WWII?",
+      "answers": [
+        {
+          "text": [
+            "Shinto"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What chemical element (Cu) is named after Cyprus?",
+      "answers": [
+        {
+          "text": [
+            "Copper"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Suva is the capital of which South Pacific island?",
+      "answers": [
+        {
+          "text": [
+            "Fiji"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "James Augustus Hickey founded the first printed ‘what’ in India in 1780?",
+      "answers": [
+        {
+          "text": [
+            "Newspaper"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Hombro is Spanish for which part of the body?",
+      "answers": [
+        {
+          "text": [
+            "Shoulder"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Lake Mamry and Lake Drawsko are in which European country?",
+      "answers": [
+        {
+          "text": [
+            "Poland"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What type of flesh does a pescatarian eat?",
+      "answers": [
+        {
+          "text": [
+            "Fish"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which animal represents the deadly sin of envy?",
+      "answers": [
+        {
+          "text": [
+            "Snake"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which Asian country is known as the ‘Land of Smiles’?",
+      "answers": [
+        {
+          "text": [
+            "Thailand"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Lonicera is the Latin name for which garden plant?",
+      "answers": [
+        {
+          "text": [
+            "Honeysuckle"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Sitophilia is the use of what for sexual arousal?",
+      "answers": [
+        {
+          "text": [
+            "Food"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which is the only planet in our solar system to have water in three states of matter: solid, liquid and gas?",
+      "answers": [
+        {
+          "text": [
+            "Earth"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which country is bordered by the Gaza Strip, Israel, Libya and Sudan?",
+      "answers": [
+        {
+          "text": [
+            "Egypt"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What type of creature is a cichlid?",
+      "answers": [
+        {
+          "text": [
+            "Fish"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "People born on the 1st March have which sign of the Zodiac?",
+      "answers": [
+        {
+          "text": [
+            "Pisces"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Gorgonzola cheese is from which country?",
+      "answers": [
+        {
+          "text": [
+            "Italy"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Dydd Sadwrn is Welsh for which day of the week?",
+      "answers": [
+        {
+          "text": [
+            "Saturday"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the title of the 2001 film in which Russell Crowe plays mathematician John Nash?",
+      "answers": [
+        {
+          "text": [
+            "A Beautiful Mind"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In April 1966, Bobbi Gibb became the first woman to run the entire distance of which marathon?",
+      "answers": [
+        {
+          "text": [
+            "boston",
+            "Boston Marathon"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "For his part in which 1953 film did Frank Sinatra receive a Best Supporting Actor Oscar? ",
+      "answers": [
+        {
+          "text": [
+            "FROM HERE TO ETERNITY"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "For which fruit is the US state of Georgia famous? ",
+      "answers": [
+        {
+          "text": [
+            "PEACH"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which is the financial centre and main city of Switzerland? ",
+      "answers": [
+        {
+          "text": [
+            "ZURICH"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who is the only man (at 2009) to have won motorbike and F1 car World Championships? ",
+      "answers": [
+        {
+          "text": [
+            "JOHN SURTEES"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In which city was Martin Luther King assassinated in 1968? ",
+      "answers": [
+        {
+          "text": [
+            "MEMPHIS, TENNESSEE",
+            "memphis"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In which county is the UK prime minister's official country residence Chequers? ",
+      "answers": [
+        {
+          "text": [
+            "BUCKINGHAMSHIRE"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the word used to describe an animal/plant that is both male and female? ",
+      "answers": [
+        {
+          "text": [
+            "HERMAPHRODITE"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In which country did the Mau Mau uprising (1952-60) occur? ",
+      "answers": [
+        {
+          "text": [
+            "KENYA"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What does a numismatist study or collect? ",
+      "answers": [
+        {
+          "text": [
+            "COINS"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who captained Jules Verne's submarine Nautilus?",
+      "answers": [
+        {
+          "text": [
+            "CAPTAIN NEMO",
+            "nemo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The llama belongs to the family of animals commonly called what?",
+      "answers": [
+        {
+          "text": [
+            "CAMELS"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In which 1979 film was the spaceship called Nostromo?",
+      "answers": [
+        {
+          "text": [
+            "ALIEN"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The Sheffield Shield is competed for in which sport?",
+      "answers": [
+        {
+          "text": [
+            "CRICKET"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is infant whale commonly called?",
+      "answers": [
+        {
+          "text": [
+            "CALF"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Alan Minter was undisputed World boxing champion at which weight?",
+      "answers": [
+        {
+          "text": [
+            "MIDDLEWEIGHT",
+            "middle weight"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which Latin term, usually applied to legal evidence, means 'at first sight'?",
+      "answers": [
+        {
+          "text": [
+            "PRIMA FACIE"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the alternative common name for a Black Leopard?",
+      "answers": [
+        {
+          "text": [
+            "PANTHER"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In which bay is Alcatraz?",
+      "answers": [
+        {
+          "text": [
+            "SAN FRANCISCO BAY",
+            "san francisco"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In which Dickens novel was Miss Havisham jilted on her wedding day? ",
+      "answers": [
+        {
+          "text": [
+            "GREAT EXPECTATIONS"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is an otter's home called?",
+      "answers": [
+        {
+          "text": [
+            "HOLT"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who had a 1985 hit with Saving All My Love For You?",
+      "answers": [
+        {
+          "text": [
+            "WHITNEY HOUSTON"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In Roman mythology, Neptune is the equivalent to which Greek god? ",
+      "answers": [
+        {
+          "text": [
+            "POSEIDON"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the only English language single word anagram of the word crouton? ",
+      "answers": [
+        {
+          "text": [
+            "CONTOUR"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which TV character said, 'Live long and prosper'? ",
+      "answers": [
+        {
+          "text": [
+            "MR SPOCK",
+            "mr.spock",
+            "spock"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the other name for Wildebeest? ",
+      "answers": [
+        {
+          "text": [
+            "GNU"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What make of car was the time-machine in the film Back To The Future? ",
+      "answers": [
+        {
+          "text": [
+            "DE LOREAN"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In which State would you find the city of Birmingham? ",
+      "answers": [
+        {
+          "text": [
+            "ALABAMA"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Complete the name of the American Football team: 'Washington ...........'? ",
+      "answers": [
+        {
+          "text": [
+            "REDSKINS"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How old is a horse when it changes from a filly to a mare? ",
+      "answers": [
+        {
+          "text": [
+            "FOUR YEARS",
+            "4 years"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Robin Hood & Friar Tuck appear in which well-known novel, by Sir Walter Scott? ",
+      "answers": [
+        {
+          "text": [
+            "IVANHOE"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is Canada's national animal? ",
+      "answers": [
+        {
+          "text": [
+            "BEAVER"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which is the smallest member of the flute family? ",
+      "answers": [
+        {
+          "text": [
+            "PICCOLO"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which Bond villain has been played by Telly Savalas, Donald Pleasance, Charles Gray, and Max Von Sydow? ",
+      "answers": [
+        {
+          "text": [
+            "BLOFELD"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "'Mace is one of the spices obtained from the tree Myristica Fragrams - what is the other? ",
+      "answers": [
+        {
+          "text": [
+            "NUTMEG"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the colour of the bull of an archery target? ",
+      "answers": [
+        {
+          "text": [
+            "GOLD"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "UNHCR is the United Nation's High Commission for what? ",
+      "answers": [
+        {
+          "text": [
+            "REFUGEES"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "A palmiped's feet are more commonly called what? ",
+      "answers": [
+        {
+          "text": [
+            "WEBBED"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which animal is known as 'The Ship of the Desert'?",
+      "answers": [
+        {
+          "text": [
+            "Camel"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many red stripes are on the American national flag?",
+      "answers": [
+        {
+          "text": [
+            "Seven"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In the children's television show, what is the name of the yellow Teletubby?",
+      "answers": [
+        {
+          "text": [
+            "Laa-Laa",
+            "laa laa"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "British athlete Duncan Goodhew is associated with which sport?",
+      "answers": [
+        {
+          "text": [
+            "Swimming"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What colour rose is the title of a Thin Lizzy song?",
+      "answers": [
+        {
+          "text": [
+            "Black"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "English wrestler Shirley Crabtree Jr was better known by what name?",
+      "answers": [
+        {
+          "text": [
+            "Big Daddy"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the monster's creator in the 1818 novel of the same name by Mary Shelley?",
+      "answers": [
+        {
+          "text": [
+            "Frankenstein",
+            "Victor"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many seconds in an hour?",
+      "answers": [
+        {
+          "text": [
+            "3600",
+            "Three thousand six hundred"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The Trafford Shopping Centre is in which English city?",
+      "answers": [
+        {
+          "text": [
+            "Manchester"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Actress Gwyneth Paltrow named her first child after which fruit?",
+      "answers": [
+        {
+          "text": [
+            "Apple"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which is the largest state in the US?",
+      "answers": [
+        {
+          "text": [
+            "Alaska"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the blood-sucking worm sometimes used by doctors?",
+      "answers": [
+        {
+          "text": [
+            "Leech"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which country has the most time zones?",
+      "answers": [
+        {
+          "text": [
+            "Russia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Fictional characters Clark Kent, Lois Lane and Jimmy Olsen work for which newspaper?",
+      "answers": [
+        {
+          "text": [
+            "The Daily Planet"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which is the most powerful chess piece?",
+      "answers": [
+        {
+          "text": [
+            "Queen"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of Batman's sidekick and ward?",
+      "answers": [
+        {
+          "text": [
+            "Robin"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In which ocean is Tahiti?",
+      "answers": [
+        {
+          "text": [
+            "Pacific Ocean",
+            "Pacific"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What color is the 'Little Corvette' in the 1983 single by Prince?",
+      "answers": [
+        {
+          "text": [
+            "Red"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The port of Dover is in which English county?",
+      "answers": [
+        {
+          "text": [
+            "Kent"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "During which month of the year is Hogmanay celebrated?",
+      "answers": [
+        {
+          "text": [
+            "December"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Sir Christopher Wren designed which famous London cathedral?",
+      "answers": [
+        {
+          "text": [
+            "St Paul’s",
+            "St. Paul",
+            "St paul",
+            "st. paul's"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How is the number ten written in Roman numerals?",
+      "answers": [
+        {
+          "text": [
+            "x"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which sign of the Zodiac is represented by the fish?",
+      "answers": [
+        {
+          "text": [
+            "Pisces"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is 255 divided by 5?",
+      "answers": [
+        {
+          "text": [
+            "51",
+            "fifty one"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which fictional character uses the expression 'Eat my shorts'?",
+      "answers": [
+        {
+          "text": [
+            "Bart Simpson"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In Greek mythology who is the messenger god?",
+      "answers": [
+        {
+          "text": [
+            "Hermes"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Hungary?",
+      "answers": [
+        {
+          "text": [
+            "Budapest"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which US city is known as The Windy City?",
+      "answers": [
+        {
+          "text": [
+            "Chicago"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which sport features line-outs, scrums and conversions?",
+      "answers": [
+        {
+          "text": [
+            "Rugby"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which spice is known as the 'Master Spice'?",
+      "answers": [
+        {
+          "text": [
+            "Pepper"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which 2009 animated film features a floating house suspended by helium balloons?",
+      "answers": [
+        {
+          "text": [
+            "Up"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The Golden Gate bridge is in which US city?",
+      "answers": [
+        {
+          "text": [
+            "San Francisco"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The Great Pyramid is in which country?",
+      "answers": [
+        {
+          "text": [
+            "Egypt"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who was the father of English monarch Elizabeth I?",
+      "answers": [
+        {
+          "text": [
+            "Henry VIII",
+            "King Henry VIII"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which fictional superhero goes by the name of Bruce Wayne?",
+      "answers": [
+        {
+          "text": [
+            "Batman"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "There are how many in a gross?",
+      "answers": [
+        {
+          "text": [
+            "144"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which fruit from Seville in Spain is usually used to make marmalade?",
+      "answers": [
+        {
+          "text": [
+            "Orange"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Singer Beyonce Knowles married which rapper in 2008?",
+      "answers": [
+        {
+          "text": [
+            "Jay-Z"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who played Captain Jack Sparrow in the 'Pirates of the Caribbean' series of films?",
+      "answers": [
+        {
+          "text": [
+            "Johnny Depp"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the 'lead' in pencils made from?",
+      "answers": [
+        {
+          "text": [
+            "Graphite",
+            "carbon"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Pug, Boxer and Chow are all breeds of which animal?",
+      "answers": [
+        {
+          "text": [
+            "Dog"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which body of water connects England and France?",
+      "answers": [
+        {
+          "text": [
+            "The English Channel"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the most common element in the Universe?",
+      "answers": [
+        {
+          "text": [
+            "Hydrogen"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the system of raised dots called which blind people use to read with their fingers?",
+      "answers": [
+        {
+          "text": [
+            "Braille"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Oil of Cloves is traditionally used to treat the pain in which part of the human body?",
+      "answers": [
+        {
+          "text": [
+            "Teeth",
+            "tooth"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What color 'Haze' is the title of a 1967 hit by Jimi Hendrix?",
+      "answers": [
+        {
+          "text": [
+            "Purple"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of France?",
+      "answers": [
+        {
+          "text": [
+            "Paris"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who is the voice of Princess Fiona in the Shrek series of films?",
+      "answers": [
+        {
+          "text": [
+            "Cameron Diaz"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "'What's up Doc' is the catchphrase of which cartoon character?",
+      "answers": [
+        {
+          "text": [
+            "Bugs bunny"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which US singer is known by the nickname J Lo?",
+      "answers": [
+        {
+          "text": [
+            "Jennifer Lopez"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "On which fictional planet was Superman born?",
+      "answers": [
+        {
+          "text": [
+            "Krypton"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who wrote the novel 'The Adventures of Huckleberry Finn'?",
+      "answers": [
+        {
+          "text": [
+            "Mark Twain"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which nuts are traditionally used to make pesto sauce?",
+      "answers": [
+        {
+          "text": [
+            "pine",
+            "Pine nuts"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The Sherlock Holmes Hotel is in which London street?",
+      "answers": [
+        {
+          "text": [
+            "Baker Street",
+            "Baker"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What colour, traditionally, are cabs in New York?",
+      "answers": [
+        {
+          "text": [
+            "Yellow"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Courgette is another name for which vegetable?",
+      "answers": [
+        {
+          "text": [
+            "Zucchini"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is a group of lions called?",
+      "answers": [
+        {
+          "text": [
+            "A pride",
+            "pride"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What does ET stand for in the 1982 Steven Spielberg film?",
+      "answers": [
+        {
+          "text": [
+            "Extra Terrestrial",
+            "extraterrestrial"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who was the first female Prime Minister of the UK?",
+      "answers": [
+        {
+          "text": [
+            "Margaret Thatcher"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Isabella 'Bella' Swan is the lead character in which series of vampire books?",
+      "answers": [
+        {
+          "text": [
+            "Twilight"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In Greek mythology, who was the ruler of the Olympian gods?",
+      "answers": [
+        {
+          "text": [
+            "Zeus"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The terms Silver, Forked and Twister are all associated with which part of the body?",
+      "answers": [
+        {
+          "text": [
+            "Tongue"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of a small, ground-dwelling songbird and something done for fun?",
+      "answers": [
+        {
+          "text": [
+            "Lark"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Convict Magwitch appears in which novel by Charles Dickens?",
+      "answers": [
+        {
+          "text": [
+            "Great Expectations"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is 1500 in Roman numerals?",
+      "answers": [
+        {
+          "text": [
+            "MD"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the national bird of New Zealand?",
+      "answers": [
+        {
+          "text": [
+            "Kiwi"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which substance makes bread rise?",
+      "answers": [
+        {
+          "text": [
+            "Yeast"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Miel is French for which foodstuff?",
+      "answers": [
+        {
+          "text": [
+            "Honey"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What colour is The Old Kent Road on a Monopoly board?",
+      "answers": [
+        {
+          "text": [
+            "Brown"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many seconds are there in an hour?",
+      "answers": [
+        {
+          "text": [
+            "3600"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Pavane, Polonaise and Polka are all types of what activity?",
+      "answers": [
+        {
+          "text": [
+            "Dance"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which fictional superhero is known as 'The Man of Steel'?",
+      "answers": [
+        {
+          "text": [
+            "Superman"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Peter Parker is the alter-ego of which fictional superhero?",
+      "answers": [
+        {
+          "text": [
+            "Spiderman"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the branch of biology that studies plants?",
+      "answers": [
+        {
+          "text": [
+            "Botany"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What are the native people of Australia called?\t",
+      "answers": [
+        {
+          "text": [
+            "aborigine",
+            "Aborigines"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which US city did Scott McKenzie sing about in 1967?",
+      "answers": [
+        {
+          "text": [
+            "San Francisco"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who is the Roman god of the sea?",
+      "answers": [
+        {
+          "text": [
+            "Neptune"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which domestic animal was worshipped by the ancient Egyptians?",
+      "answers": [
+        {
+          "text": [
+            "cat"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of a long-bodied marine fish and a person who unscrupulously exploits or swindles others?",
+      "answers": [
+        {
+          "text": [
+            "Shark"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the national animal of Finland?",
+      "answers": [
+        {
+          "text": [
+            "Brown bear"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many squares are on a chess board?",
+      "answers": [
+        {
+          "text": [
+            "64",
+            "sixtyfour",
+            "sixty-four"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In the human body, molars, canines and incisors are all what?",
+      "answers": [
+        {
+          "text": [
+            "Teeth",
+            "tooth"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is a line called that goes straight from the center of a circle to the circumference?",
+      "answers": [
+        {
+          "text": [
+            "Radius"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Mount Etna is on which European island?",
+      "answers": [
+        {
+          "text": [
+            "Sicily"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The cup, or bowl, Jesus was said to have used at the Last Supper is known as 'The Holy ...'?",
+      "answers": [
+        {
+          "text": [
+            "Grail"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The musical \"West Side Story\" is based on which Shakespeare play?",
+      "answers": [
+        {
+          "text": [
+            "Romeo and Juliet"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Whose 1988 autobiography is entitled 'Moonwalk'?",
+      "answers": [
+        {
+          "text": [
+            "Michael Jackson"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the boiling point of water in degrees Farenheit?",
+      "answers": [
+        {
+          "text": [
+            "212",
+            "two hundred and twelve"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the first name of Bill and Hillary Clinton’s daughter?",
+      "answers": [
+        {
+          "text": [
+            "Chelsea"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many days are there in the month of August?",
+      "answers": [
+        {
+          "text": [
+            "31",
+            "thirtyone",
+            "thirty-one"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the fairy in the play ‘Peter Pan’ by J M Barrie?",
+      "answers": [
+        {
+          "text": [
+            "Tinker Bell"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What type of drink is claret?",
+      "answers": [
+        {
+          "text": [
+            "Wine"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In humans, what is the name of the front cutting teeth?",
+      "answers": [
+        {
+          "text": [
+            "Incisor",
+            "Incisors"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the longest river in North America?",
+      "answers": [
+        {
+          "text": [
+            "Missouri River",
+            "Missouri"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of the daughter of cartoon character Fred Flintstone?",
+      "answers": [
+        {
+          "text": [
+            "Pebbles"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the highest prime number between 1 and 100?",
+      "answers": [
+        {
+          "text": [
+            "97",
+            "ninetyseven",
+            "ninety-seven"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many grams in half a kilo?",
+      "answers": [
+        {
+          "text": [
+            "500",
+            "five hundred"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What colour is the skin of a courgette?",
+      "answers": [
+        {
+          "text": [
+            "Green"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Gotham City is associated with which fictional superhero?",
+      "answers": [
+        {
+          "text": [
+            "Batman"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What breed of dog is known as a 'Sausage dog'?",
+      "answers": [
+        {
+          "text": [
+            "Dachshund"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Thomas the Tank Engine lives on which fictional island?",
+      "answers": [
+        {
+          "text": [
+            "Sodor"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Sweden?",
+      "answers": [
+        {
+          "text": [
+            "Stockholm"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "During which month of the year are the US Presidential elections held?",
+      "answers": [
+        {
+          "text": [
+            "November"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the name of a Telly Tubby and an Italian river?",
+      "answers": [
+        {
+          "text": [
+            "Po"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What was the most common password used online in 2012?",
+      "answers": [
+        {
+          "text": [
+            "Password"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What colour shirts did the Italian Fascists wear under the leadership of Benito Mussolini?",
+      "answers": [
+        {
+          "text": [
+            "Black"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Pepe le Pew is what type of cartoon animal?",
+      "answers": [
+        {
+          "text": [
+            "Skunk"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which US city was named after St Francis of Assisi?",
+      "answers": [
+        {
+          "text": [
+            "San Francisco"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which bird lays the largest eggs?",
+      "answers": [
+        {
+          "text": [
+            "Ostrich"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In the game of Clue, what colour is the piece that represents Mrs Peacock?",
+      "answers": [
+        {
+          "text": [
+            "Blue"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the largest gulf in the world?",
+      "answers": [
+        {
+          "text": [
+            "Gulf of Mexico",
+            "the gulf of mexico"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Melbourne is the capital of which Australian state?",
+      "answers": [
+        {
+          "text": [
+            "Victoria"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many squares are on a Spear's Games Snakes and Ladders board?",
+      "answers": [
+        {
+          "text": [
+            "100",
+            "one hundred"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Prince Albert, husband of British monarch Queen Victoria, was born in which modern-day country?",
+      "answers": [
+        {
+          "text": [
+            "Germany"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which animal is depicted as the face of breakfast cereal Coco Pops?",
+      "answers": [
+        {
+          "text": [
+            "Monkey"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The countries Ghana, Nigeria and Kenya are all in which continent?",
+      "answers": [
+        {
+          "text": [
+            "Africa"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What colour is superhero Batman's Batphone?",
+      "answers": [
+        {
+          "text": [
+            "Red"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "'The Grand Ole Opry' in America is famous for what type of music?",
+      "answers": [
+        {
+          "text": [
+            "Country music",
+            "Country"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The caber, kilts and bagpipes are all associated with with European country?",
+      "answers": [
+        {
+          "text": [
+            "Scotland"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Ancient Egyptian Cleopatra was said to have been killed by what type of snake?",
+      "answers": [
+        {
+          "text": [
+            "Asp"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the boiling point of water in degrees Celsius?",
+      "answers": [
+        {
+          "text": [
+            "100"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which is the only bird in the Chinese Zodiac?",
+      "answers": [
+        {
+          "text": [
+            "Rooster"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which legendary English outlaw 'stole from the rich to give to the poor'?",
+      "answers": [
+        {
+          "text": [
+            "Robin Hood"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who played Han Solo in the 'Star Wars' series of films?",
+      "answers": [
+        {
+          "text": [
+            "Harrison Ford"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who sang at half time at the US Super Bowl in February 2013?",
+      "answers": [
+        {
+          "text": [
+            "Beyonce"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In July 2013, who revealed that they were the secret author Robert Galbraith?",
+      "answers": [
+        {
+          "text": [
+            "J K Rowling",
+            "j.k. rowling'j. k. rowling"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the capital of Canada?",
+      "answers": [
+        {
+          "text": [
+            "Ottawa"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What colour is Teletubby Po in the children's television series Teletubbies?",
+      "answers": [
+        {
+          "text": [
+            "Red"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In the Harry Potter series of books, what animal does Sirius Black turn into?",
+      "answers": [
+        {
+          "text": [
+            "Dog"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which famous artist spent four years painting the ceiling of the Sistine Chapel in Rome?",
+      "answers": [
+        {
+          "text": [
+            "Michelangelo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In British legend, what is the name of King Arthur's sword?",
+      "answers": [
+        {
+          "text": [
+            "Excalibur"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What was the first team sport included in the Olympic Games?",
+      "answers": [
+        {
+          "text": [
+            "Soccer",
+            "football"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The White Rose Shopping Centre is in which English city?",
+      "answers": [
+        {
+          "text": [
+            "Leeds"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which designer (brand) created the Kelly bag?",
+      "answers": [
+        {
+          "text": [
+            "Hermes"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Arctic King, Saladin and Tom Thumb are which types of vegetable?",
+      "answers": [
+        {
+          "text": [
+            "Lettuce"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The Galápagos Islands are a provincial territory of which South American country, 600 miles away on the same equatorial latitude?",
+      "answers": [
+        {
+          "text": [
+            "Ecuador"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is a baby oyster called?",
+      "answers": [
+        {
+          "text": [
+            "Spat"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is Bill Clinton's middle name?",
+      "answers": [
+        {
+          "text": [
+            "Jefferson"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In which country are the Sutherland Falls?",
+      "answers": [
+        {
+          "text": [
+            "New Zealand"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the largest flat fish species?",
+      "answers": [
+        {
+          "text": [
+            "Halibut"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What's the oldest university in the USA?",
+      "answers": [
+        {
+          "text": [
+            "Harvard"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In architecture, what is a lancet?",
+      "answers": [
+        {
+          "text": [
+            "window"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who invented jeans?",
+      "answers": [
+        {
+          "text": [
+            "Levi Strauss",
+            "Levi"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Which European city had the Roman name Lutetia?",
+      "answers": [
+        {
+          "text": [
+            "Paris"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the green pigment found in most plants that is responsible for absorbing light energy?",
+      "answers": [
+        {
+          "text": [
+            "Chlorophyll"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Yeomen Warders at the Tower of London are commonly known by what other name?",
+      "answers": [
+        {
+          "text": [
+            "Beefeaters"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the birthstone for April?",
+      "answers": [
+        {
+          "text": [
+            "Diamond"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What does 'E' represent in E = MC2?",
+      "answers": [
+        {
+          "text": [
+            "Energy"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who invented the revolver (handgun)?",
+      "answers": [
+        {
+          "text": [
+            "Samuel Colt",
+            "Colt"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In which ocean is Ascension Island?",
+      "answers": [
+        {
+          "text": [
+            "Atlantic"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the USA state capital of California?",
+      "answers": [
+        {
+          "text": [
+            "Sacramento"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The Latin prefix 'dino' (as in dinosaur) means?",
+      "answers": [
+        {
+          "text": [
+            "Terrible"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Argan oil, chiefly from Morocco, used in cooking and cosmetics, is extracted from what?",
+      "answers": [
+        {
+          "text": [
+            "Tree nut"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Mocha is coffee with added...?",
+      "answers": [
+        {
+          "text": [
+            "Chocolate"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What African nation is known in parts of Asia by the local names of two of its famous cities Marrakech and Fes?",
+      "answers": [
+        {
+          "text": [
+            "Morocco"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What drink from the Camellia sinensis plant has green, black and white varieties?",
+      "answers": [
+        {
+          "text": [
+            "Tea"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The dermis and cutis are parts of the human...?",
+      "answers": [
+        {
+          "text": [
+            "Skin"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The Arabic word 'al' (AL) roughly translates in English to mean...?",
+      "answers": [
+        {
+          "text": [
+            "The"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Tallow, Beeswax, Spermaceti, and Paraffin are traditionally used in making...?",
+      "answers": [
+        {
+          "text": [
+            "Candles"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The famous self-styled anarchist web-hacking group founded in 2003 is called...?",
+      "answers": [
+        {
+          "text": [
+            "Anonymous"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Name the controversial detention camp established in 2002 by the USA in Cuba?",
+      "answers": [
+        {
+          "text": [
+            "Guantanamo Bay"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Mixing yellow and blue paint produces...?",
+      "answers": [
+        {
+          "text": [
+            "Green"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Based on Greek legend, a constant uncontrollable threat, especially to a safe/desirable situation, is called The Sword of...?",
+      "answers": [
+        {
+          "text": [
+            "Damocles"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The planet Jupiter has how many known moons?",
+      "answers": [
+        {
+          "text": [
+            "Sixty-seven",
+            "sixty seven",
+            "67",
+            "sixtyseven"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Barber, Debussy, Glass and Holst were all?",
+      "answers": [
+        {
+          "text": [
+            "Composers"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Marfona, Charlotte, Jersey, and Desiree are all types of...?",
+      "answers": [
+        {
+          "text": [
+            "Potato"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Mach 1 refers to the speed of...?",
+      "answers": [
+        {
+          "text": [
+            "Sound"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The hook symbol joined under a letter (e.g., to the letter C, to soften the sound) is a...?",
+      "answers": [
+        {
+          "text": [
+            "Cedilla",
+            "cedilha"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Zika disease, identified 1947 and epidemic in S America commencing 2015, is mainly transmitted by infected...?",
+      "answers": [
+        {
+          "text": [
+            "Mosquitoes",
+            "mosquito"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Alphabet became in 2015 the holding company of which vast tech corporation?",
+      "answers": [
+        {
+          "text": [
+            "Google"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What does IHOP stand for?",
+      "answers": [
+        {
+          "text": [
+            "International House of Pancakes"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Barbara Millicent Roberts (1959 - present) from Willows Wisconsin is better known as what iconic figure?",
+      "answers": [
+        {
+          "text": [
+            "Barbie"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "According to DC Comics history, who was 'Nightwing' when he was younger?",
+      "answers": [
+        {
+          "text": [
+            "Robin"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Breitling, Fortis, Hublot and Longines are makers of...?",
+      "answers": [
+        {
+          "text": [
+            "Watches",
+            "watch"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What girl's name beginning with A was punningly chosen first when the UK decided in 2015 to 'name' its storms?",
+      "answers": [
+        {
+          "text": [
+            "Abigail"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Kola, Palm, Pecan and Betel are types of...?",
+      "answers": [
+        {
+          "text": [
+            "Nuts",
+            "nut"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Parka, Harrington, Crombie, and Anorak are types of...?",
+      "answers": [
+        {
+          "text": [
+            "Coats",
+            "Jackets"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "A slot/fruit machine was originally known as a One-Armed...?",
+      "answers": [
+        {
+          "text": [
+            "Bandit"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The modern confection originally from Ancient Egypt and the Malva plant which gave the French word mauve is?",
+      "answers": [
+        {
+          "text": [
+            "Marshmallow"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Hex/Allen, Slot, Cross, and Phillips are types of...?",
+      "answers": [
+        {
+          "text": [
+            "Screwdrivers",
+            "screwdriver"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Name the famous naval base and natural port on Oahu island, Hawaii, which featured in the US entry to World War II?",
+      "answers": [
+        {
+          "text": [
+            "Pearl Harbor"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The classical composers Bach, Brahms, Handel, Strauss, and Schumann are all what nationality?",
+      "answers": [
+        {
+          "text": [
+            "German"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Philadelphia, Cheddar, Feta, and Paneer are all types of...?",
+      "answers": [
+        {
+          "text": [
+            "Cheeses",
+            "cheese"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "From Latin 'sapo', saponification is a process of producing...?",
+      "answers": [
+        {
+          "text": [
+            "Soap"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What word is a flat-bottom boat, a football kick, a glassmaking tool, and a dented base of a wine bottle?",
+      "answers": [
+        {
+          "text": [
+            "Punt"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Turkish Van, Chartreux, Scottish Fold and Ragdoll are types of...?",
+      "answers": [
+        {
+          "text": [
+            "Cats",
+            "cat"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What popular orange-coloured citrus fruit is surprisingly a hybrid of the pomelo (25%) and mandarin (75%)?",
+      "answers": [
+        {
+          "text": [
+            "Orange"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the sweet clear liquid by-product from soap manufacture, used in laxatives, explosives and antifreeze?",
+      "answers": [
+        {
+          "text": [
+            "Glycerine"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "At 2015 the biggest cause of death among UK men under 50 was?",
+      "answers": [
+        {
+          "text": [
+            "Suicide"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The US 1899-founded Gideons International organization is famous for distributing ___ to 200 countries for free?",
+      "answers": [
+        {
+          "text": [
+            "Bibles"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Angiosperm (from Greek 'angeion', bottle) is a major scientific classification of land plants which have seeds and...?",
+      "answers": [
+        {
+          "text": [
+            "Flowers"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Considered the oldest living land animal at 183yrs in 2016, on St Helena island, Sth Atlantic, Jonathan is a Seychelles Giant...?",
+      "answers": [
+        {
+          "text": [
+            "Tortoise"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The German surname and name-suffix Baum referred to living near or resembling a...?",
+      "answers": [
+        {
+          "text": [
+            "Tree"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is removed from natural yogurt to produce Greek yogurt (also called labneh [Arabic] and strained yogurt)?",
+      "answers": [
+        {
+          "text": [
+            "Whey"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The famous website franchise which offers entertaining educational 18 minute talks videos is abbreviated to...?",
+      "answers": [
+        {
+          "text": [
+            "TED"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What Latin word meaning equal expresses a quality standard/norm (on or below or above etc), alluding to golfing performance?",
+      "answers": [
+        {
+          "text": [
+            "Par"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What creature's name is from Greek 'river horse'?",
+      "answers": [
+        {
+          "text": [
+            "Hippopotamus",
+            "hippo"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What orange spice/colouring comes from the crocus plant, often associated with rice?",
+      "answers": [
+        {
+          "text": [
+            "Saffron"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Wikipedia's spherical logo features what symbol for Greek W, also a fatty acid name?",
+      "answers": [
+        {
+          "text": [
+            "Omega",
+            "Ω"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What hugely popular cereal crop has varieties including Arborio (Italy), Ambemohar (India), Doongara (Australia), and Uruchimai (Japan)?",
+      "answers": [
+        {
+          "text": [
+            "Rice"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "In US TV cartoon sitcom Family Guy which Griffin family member is the anthropomorphic dog?",
+      "answers": [
+        {
+          "text": [
+            "Brian"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The human body's energy chemical is...?",
+      "answers": [
+        {
+          "text": [
+            "Glucose"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who created the 1970s persona Thin White Duke, and subsequent brands Glass Spider and Tin Machine?",
+      "answers": [
+        {
+          "text": [
+            "David Bowie"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What was the Russian city of Stalingrad renamed in 1961, after Europe's longest river?",
+      "answers": [
+        {
+          "text": [
+            "Volgograd"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who wrote/directed the movies The Hateful Eight and Inglourious Basterds?",
+      "answers": [
+        {
+          "text": [
+            "Quentin Tarantino"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The famous Ancient Roman marble statue 'Venus Callipyge' or 'Callipygian Venus' literally and artistically represents \"Venus/Aphrodite of the beautiful...\"?",
+      "answers": [
+        {
+          "text": [
+            "Buttocks",
+            "butt"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What Anglicized-French word referring to prestige derives from the verb to press?",
+      "answers": [
+        {
+          "text": [
+            "Cachet"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The motor theft crime abbreviated in the UK to TWOC (hence the slang verb 'twocking') stands for what?",
+      "answers": [
+        {
+          "text": [
+            "Taking Without Owner's Consent"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Besides humans, the most widely distributed mammals on Earth are...?",
+      "answers": [
+        {
+          "text": [
+            "Whales",
+            "whale",
+            "killer whale",
+            "orca"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Who controversially interviewed the on-the-run Mexican drug lord 'El Chapo' Guzman for Rolling Stone Magazine just before his 2015 capture?",
+      "answers": [
+        {
+          "text": [
+            "Sean Penn"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What sort of creatures are fulmars and petrels?",
+      "answers": [
+        {
+          "text": [
+            "Birds",
+            "bird"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Vaquita porpoise 'maw', an illegally trafficked delicacy in Chinese cuisine, priced upwards of $10,000/kilo, is the creature's...?",
+      "answers": [
+        {
+          "text": [
+            "Swim bladder"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "When moving a cat to a new home, it is popularly and mythically believed that rubbing (What?) on its paws will stop it wandering away?",
+      "answers": [
+        {
+          "text": [
+            "Butter"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The Ancient Egyptian mummy/afterlife figure Anubis is typically half-man and half-?",
+      "answers": [
+        {
+          "text": [
+            "Dog",
+            "fox",
+            "jackal",
+            "wolf"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The US-originating paramilitary/police term SWAT stands for what?",
+      "answers": [
+        {
+          "text": [
+            "Special Weapons And Tactics"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The long-standing currency of Kenya, Uganda, and Tanzania (at early 2000s) is the...?",
+      "answers": [
+        {
+          "text": [
+            "Shilling"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Human urine passes from each kidney via the ureter to (What?)?",
+      "answers": [
+        {
+          "text": [
+            "Bladder"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "With over one billion registered users, China's (claimed) largest smartphone messaging app is...?",
+      "answers": [
+        {
+          "text": [
+            "WeChat"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The brunch dish of poached eggs, muffins, bacon/ham and hollandaise sauce, popularized in New York City is 'Eggs...'?",
+      "answers": [
+        {
+          "text": [
+            "Benedict"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The 2015 Star Wars sequel is subtitled 'The Force...'?",
+      "answers": [
+        {
+          "text": [
+            "Awakens"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "An annelid is a...?",
+      "answers": [
+        {
+          "text": [
+            "Segmented Worm",
+            "worm"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Fish are typically referred to as being (What?)-blooded?",
+      "answers": [
+        {
+          "text": [
+            "Cold"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "A rock containing a mineral that can be viably extracted for use is called an...?",
+      "answers": [
+        {
+          "text": [
+            "Ore"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The most poisonous fungi, which usually kills anyone eating it, is the...?",
+      "answers": [
+        {
+          "text": [
+            "Destroying Angel"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "How many cathedrals are in mainland UK (at early 2000s)?",
+      "answers": [
+        {
+          "text": [
+            "42",
+            "fourtytwo",
+            "fourty-two",
+            "fourty two"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is the highest grossing hand-drawn animated film in history?",
+      "answers": [
+        {
+          "text": [
+            "The Lion King"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "A rivulet is a miniature...?",
+      "answers": [
+        {
+          "text": [
+            "river",
+            "stream"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What instant messaging service was acquired in 2014 for $16billion by Facebook?",
+      "answers": [
+        {
+          "text": [
+            "Whatsapp"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The main character in the movie The Nightmare Before Christmas is...?",
+      "answers": [
+        {
+          "text": [
+            "Jack Skellington"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "American Linus Pauling, 1954 Nobel Prizewinner, conceived a helical structure fundamental to...?",
+      "answers": [
+        {
+          "text": [
+            "DNA"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What deceptively challenging culinary dish is named from French 'lemele' (knife blade - alluding to shape)?",
+      "answers": [
+        {
+          "text": [
+            "Omelette"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The fictional character Norville Rogers is better known by the nickname...?",
+      "answers": [
+        {
+          "text": [
+            "Shaggy"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "From Latin, casein is the main protein in?",
+      "answers": [
+        {
+          "text": [
+            "Milk",
+            "cheese"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What were Victorian English postmen called because of their uniforms (type of bird)?",
+      "answers": [
+        {
+          "text": [
+            "Robins",
+            "robin"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The popular geeky children's TV series about an anthropomorphic aardvark whose theme song was sung by Ziggy Marley is?",
+      "answers": [
+        {
+          "text": [
+            "Arthur"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Bengal gram, Garbanzo, and Kabuli chana are all better known as what legume?",
+      "answers": [
+        {
+          "text": [
+            "Chickpea"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What discipline contains 'asanas' including names such as Half boat, Full boat, Tree, and Happy Baby?",
+      "answers": [
+        {
+          "text": [
+            "Yoga"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Genever is the old word for what alcoholic drink?",
+      "answers": [
+        {
+          "text": [
+            "Gin"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The Almeria region, driest in Europe, used for filming many famous Cowboy/Western films, is in what country?",
+      "answers": [
+        {
+          "text": [
+            "Spain"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Kuala Lumpar Airport is which nation's main air terminal?",
+      "answers": [
+        {
+          "text": [
+            "Malaysia"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Ares, equating to the Roman god Mars, is the Greek god of...?",
+      "answers": [
+        {
+          "text": [
+            "War"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Lisa Gherardini (aka Lisa del Giocondo) is better known as the...?",
+      "answers": [
+        {
+          "text": [
+            "Mona Lisa"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "English playwright Chrisopher Marlowe coined the phrase 'The face that launched a thousand ships' in his tragedy Doctor Faustus when referring to which mythical Greek figure?",
+      "answers": [
+        {
+          "text": [
+            "Helen of Troy",
+            "Helen of Sparta",
+            "helen"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "A disabling attack on a website known as a DDoS stands for a 'Distributed (What of What?)'?",
+      "answers": [
+        {
+          "text": [
+            "Denial of Service",
+            "distributed denial of service"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What legendary ruler visited King Solomon in the Bible, and became a metaphoric/ironic term for a female with delusions of grandeur?",
+      "answers": [
+        {
+          "text": [
+            "The Queen of Sheba"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What famous French endurance motor racing track/city is named after the early inhabiting Cenomani Celtic people?",
+      "answers": [
+        {
+          "text": [
+            "Le Mans"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "A term for a dark shape against a brighter background is named after 18th century French author/politician Etienne de (Who?)?",
+      "answers": [
+        {
+          "text": [
+            "Silhouette"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What word for sadness referred historically to human black bile in the ancient medical theory of the Four Humours or Four Temperaments?",
+      "answers": [
+        {
+          "text": [
+            "Melancholy"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The 'twi' in the word twilight originally meant?",
+      "answers": [
+        {
+          "text": [
+            "Two",
+            "2"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Bammy (Jamaica), Bannock (Scotland), Blaa (Ireland), Bublik (Poland), and Boule (France) are types of...?",
+      "answers": [
+        {
+          "text": [
+            "Bread"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The Han ethnic people constitute about 90% of which country's population?",
+      "answers": [
+        {
+          "text": [
+            "China"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What often poisonous compound, CN, found in fruit seeds and stones, named from Greek for dark blue, comprises Carbon and Nitrogen?",
+      "answers": [
+        {
+          "text": [
+            "Cyanide"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Research (Newcastle University 2015) suggests that Type-2 diabetes is reversible by a very small reduction of fat in what human organ?",
+      "answers": [
+        {
+          "text": [
+            "Pancreas"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The Cuban/Puerto Rican music/dance 'Salsa' means what in Spanish?",
+      "answers": [
+        {
+          "text": [
+            "Sauce"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Aquae Sulis is the Roman name for what aptly renamed English spa city?",
+      "answers": [
+        {
+          "text": [
+            "Bath"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What metal element, symbol B, was named after its natural mineral form, popularised for its use as a cleaning product in the 1880s?",
+      "answers": [
+        {
+          "text": [
+            "Boron"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "A Muscovite refers to a native of what city?",
+      "answers": [
+        {
+          "text": [
+            "Moscow"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What famous ancient city is on the river Tiber?",
+      "answers": [
+        {
+          "text": [
+            "Rome"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "A prebiotic induces growth in humans (and other living hosts) of beneficial...?",
+      "answers": [
+        {
+          "text": [
+            "bacteria"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "The CAC40 is a main stock market index of which country?",
+      "answers": [
+        {
+          "text": [
+            "France"
+          ]
+        }
+      ],
+      "answersNeeded": 1
     }
   ],
   "settings": {
